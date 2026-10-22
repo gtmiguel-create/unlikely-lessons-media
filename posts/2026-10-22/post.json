@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-22",
+  "topic": "MONIAC, Bill Phillips",
+  "slides": [
+    {"type": "cover", "title": "In 1949, a student built the British economy.", "accent": "Out of water.", "sub": "And it worked."},
+    {"type": "text", "kicker": "He had just failed two of his exams.", "body": "Bill Phillips was a New Zealand engineer studying economics at the London School of Economics.\n\nThe equations never quite clicked. So he stopped reading about the economy, and decided to build one."},
+    {"type": "text", "kicker": "A garage in Croydon. About £400.", "body": "In his landlady's garage, Phillips put together tanks, pipes and valves, some of them scavenged from old Lancaster bombers.\n\nThe result stood about two metres tall. He called it MONIAC."},
+    {"type": "diagram", "kicker": "Coloured water was money.", "script": "diagram.py", "body": "Raise taxes? Turn a valve, and watch every tank in the economy change level."},
+    {"type": "text", "kicker": "Suddenly, you could watch an economy move.", "body": "Economists who had argued over equations for years could now see them flow. Phillips found it could be calibrated to within about 2%.\n\nHarvard, Oxford, Cambridge, even Ford, ordered their own. Around 14 were built."},
+    {"type": "text", "kicker": "The student became the professor.", "body": "The machine earned Phillips a teaching job at the LSE. He finished his doctorate, and later gave his name to one of economics' best-known ideas: the Phillips curve."},
+    {"type": "moral", "lead": "You don't always understand something by adding more theory.", "accent": "Sometimes you understand it by making it visible."},
+    {"type": "cta", "line": "Save this for the next time something won't click."}
+  ],
+  "caption": "In 1949, a student who'd just failed his exams built a working model of the British economy in a garage. Out of tanks, pipes and coloured water.\n\nSometimes the best way to understand a system is to watch it flow. 💧\n\nWhich complicated thing would you love to see as a machine?\n\n#history #economics #engineering #didyouknow #lifelessons",
+  "sources": ["https://en.wikipedia.org/wiki/Phillips_Machine", "https://libertystreeteconomics.newyorkfed.org/2012/06/historical-echoes-a-water-machine-that-simulates-the-economy"],
+  "status": "published-manually"
+}
