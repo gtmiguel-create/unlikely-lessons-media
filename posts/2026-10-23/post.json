@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-23",
+  "topic": "Theodor Scheimpflug, kites, maps and the Scheimpflug principle",
+  "category": "photography",
+  "slides": [
+    {"type": "cover", "title": "He wanted to map the land from a kite.", "accent": "He ended up bending focus.", "sub": "Vienna, around 1900."},
+    {"type": "text", "kicker": "A sailor who loved measuring things.", "body": "Theodor Scheimpflug was born in Vienna in 1865. He trained as a naval officer, then joined Austria's military mapping institute in 1897.\n\nHis obsession: making accurate maps from photographs."},
+    {"type": "text", "kicker": "Balloons were impractical. So: kites.", "body": "Around 1900 he stepped away from the institute. With money he had inherited, he started sending cameras up on kites.\n\nThe plan was simple. Photograph the land from above, then turn the photos into maps."},
+    {"type": "text", "kicker": "But the photos came back crooked.", "body": "A camera looking down at an angle squeezes the far side of the land. Square fields turn into trapezoids.\n\nTo fix that, you project the photo again at a matching tilt. But then only part of the picture stays sharp."},
+    {"type": "diagram", "kicker": "The fix: tilt the lens too.", "script": "diagram.py", "body": "His 1904 patent described it. When film, lens and subject planes meet in one line, a slanted subject is sharp from front to back."},
+    {"type": "text", "kicker": "He said it wasn't his idea.", "body": "A French engineer, Jules Carpentier, had described the same geometry in a 1901 patent. Scheimpflug pointed to it himself.\n\nThe name stuck anyway. Today it's called the Scheimpflug principle."},
+    {"type": "text", "kicker": "The rule escaped the map room.", "body": "Tilt-shift lenses use it to keep a slanted scene sharp, or to blur a real city until it looks like a toy model.\n\nAnd eye doctors use Scheimpflug cameras to map the cornea in 3D."},
+    {"type": "moral", "lead": "Solve one stubborn problem properly,", "accent": "and the answer will travel much further than you planned."},
+    {"type": "cta", "line": "Save this for the next time a small fix feels pointless."}
+  ],
+  "caption": "Around 1900, a former naval officer sent cameras up on kites to make better maps. The photos came back crooked, so he worked out how to keep a tilted picture sharp.\n\nThat same rule now makes real cities look like toys, and maps the surface of your eye. 🪁\n\nWhat's a fix you made once that turned out useful somewhere else?\n\n#photography #history #science #didyouknow #lifelessons",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodor_Scheimpflug",
+    "https://www.deutsche-biographie.de/sfz111390.html",
+    "https://austria-forum.org/af/AEIOU/Scheimpflug%2C_Theodor/Scheimpflug%2C_Theodor_english",
+    "https://asprs.org/wp-content/uploads/pers/1940journal/sep/1940_sep_109-125.pdf",
+    "https://www.adobe.com/creativecloud/photography/technique/tilt-shift",
+    "https://qa1.scielo.br/j/rbof/a/MhGZynMYv9nvvqpwDNrxcSv/?lang=en"
+  ],
+  "status": "pending"
+}
