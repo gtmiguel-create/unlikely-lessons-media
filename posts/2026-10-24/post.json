@@ -3,22 +3,60 @@
   "topic": "Joe Woodland, Bernard Silver and the invention of the barcode",
   "category": "technology",
   "slides": [
-    {"type": "cover", "title": "The barcode was invented on a beach.", "accent": "Drawn in the sand.", "sub": "Miami Beach, 1949."},
-    {"type": "text", "kicker": "A grocer asked for help. A dean said no.", "body": "In the late 1940s, a supermarket boss asked Drexel, a Philadelphia university, to help him speed up checkouts. The dean turned him down.\n\nA young graduate student, Bernard Silver, overheard. He told his friend Joe Woodland."},
-    {"type": "text", "kicker": "Woodland went to the beach to think.", "body": "He moved into his grandfather's apartment in Miami Beach, set on cracking the problem.\n\nThe one code he really knew was one he had learned as a Boy Scout: Morse code."},
-    {"type": "diagram", "kicker": "Dots and dashes, stretched into lines.", "script": "diagram.py", "body": "He dragged his fingers through the sand. Four lines. They could be wide and narrow, he realised, instead of dots and dashes."},
-    {"type": "text", "kicker": "A brilliant idea. About 20 years too early.", "body": "Woodland and Silver got a patent in 1952. But the cheap lasers and computers needed to read it didn't exist yet.\n\nThey sold the patent for $15,000. That was all they ever made from it."},
-    {"type": "text", "kicker": "Then the world caught up.", "body": "In 1973, US grocers picked a striped code designed at IBM, where Woodland now worked.\n\nOn 26 June 1974, in Troy, Ohio, a pack of Wrigley's gum became the first product scanned at a checkout."},
-    {"type": "text", "kicker": "Ten billion scans. Every day.", "body": "Silver died young, years before that first scan. Woodland lived to see it everywhere, and received the US National Medal of Technology in 1992.\n\nToday, barcodes are scanned more than ten billion times a day."},
-    {"type": "moral", "lead": "Being early is not the same as being wrong.", "accent": "Some ideas just have to wait for the world to catch up."},
-    {"type": "cta", "line": "Save this for the next idea that feels too early."}
+    {
+      "type": "cover",
+      "title": "The barcode was invented on a beach.",
+      "accent": "Drawn in the sand.",
+      "sub": "Miami Beach, 1949."
+    },
+    {
+      "type": "text",
+      "kicker": "A grocer asked for help. The university said no.",
+      "body": "In 1948, the head of a supermarket chain asked Drexel, a university in Philadelphia, to help him speed up checkouts. The university turned him down.\n\nA young graduate student, Bernard Silver, overheard. He told Joe Woodland."
+    },
+    {
+      "type": "text",
+      "kicker": "Woodland went to the beach to think.",
+      "body": "He moved into his grandfather's apartment in Miami Beach, determined to solve the problem.\n\nThe one code he really knew was one he had learned as a Boy Scout: Morse code."
+    },
+    {
+      "type": "diagram",
+      "kicker": "Dots and dashes, stretched into lines.",
+      "script": "diagram.py",
+      "body": "He dragged his fingers through the sand. Four lines. They could be wide and narrow, he realised, instead of dots and dashes."
+    },
+    {
+      "type": "text",
+      "kicker": "A brilliant idea. About 20 years too early.",
+      "body": "Woodland and Silver got a patent in 1952. But the cheap lasers and computers needed to read it didn't exist yet.\n\nThey sold the patent for $15,000. That was all they ever made from it."
+    },
+    {
+      "type": "text",
+      "kicker": "Then the world caught up.",
+      "body": "In 1973, US grocers picked a striped code designed at IBM, where Woodland was then working.\n\nOn 26 June 1974, in Troy, Ohio, a pack of Wrigley's gum became the first product scanned at a checkout."
+    },
+    {
+      "type": "text",
+      "kicker": "Ten billion scans. Every day.",
+      "body": "Silver died young, years before that first scan. Woodland lived to see it everywhere, and received the US National Medal of Technology in 1992.\n\nToday, barcodes are scanned more than ten billion times a day."
+    },
+    {
+      "type": "moral",
+      "lead": "Being early is not the same as being wrong.",
+      "accent": "Some ideas just have to wait for the world to catch up."
+    },
+    {
+      "type": "cta",
+      "line": "Save this for the next idea that feels too early."
+    }
   ],
   "caption": "In 1949, a young engineer sat on a Miami beach and drew Morse code in the sand, stretching the dots and dashes into lines. That was the first barcode.\n\nIt took 25 years, lasers and computers before anyone scanned one. 🏖️\n\nWhat idea do you think is just waiting for its moment?\n\n#history #technology #inventions #didyouknow #lifelessons",
   "sources": [
     "https://www.smithsonianmag.com/innovation/history-bar-code-180956704/",
     "https://www.gs1uk.org/insights/news/the-history-of-the-barcode",
     "https://en.wikipedia.org/wiki/Bernard_Silver",
-    "https://www.technologyreview.com/2003/04/01/234345/behind-bars/"
+    "https://www.technologyreview.com/2003/04/01/234345/behind-bars/",
+    "https://newsblog.drexel.edu/2012/12/19/barcode-at-60-the-story-behind-the-stripes/"
   ],
   "status": "pending"
 }
