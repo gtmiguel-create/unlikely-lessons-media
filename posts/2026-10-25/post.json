@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-25",
+  "topic": "The Library of Babel, Jorge Luis Borges",
+  "slides": [
+    {"type": "cover", "title": "Imagine a library that holds every possible book.", "accent": "Its readers despaired.", "sub": "Borges, 1941."},
+    {"type": "text", "kicker": "A library made of endless rooms.", "body": "In 1941, the Argentine writer Jorge Luis Borges published a short story called \"The Library of Babel\".\n\nIn it, the universe is a vast maze of six-sided rooms, lined with shelves of books, stretching in every direction."},
+    {"type": "diagram", "kicker": "Every book follows the same rules.", "script": "diagram.py", "body": "Every possible combination of these symbols fills a book somewhere. So every text ever written is there. And every text never written."},
+    {"type": "text", "kicker": "First came joy.", "body": "When people realised the library held every book, Borges writes, they were wildly happy.\n\nSomewhere on those shelves was the answer to every question. Even a book that explained and justified their own life."},
+    {"type": "text", "kicker": "Then came despair.", "body": "For every sentence that made sense, there were miles of gibberish.\n\nThe true catalogue of the library was there. So were thousands of false ones. Nobody could tell which was which."},
+    {"type": "text", "kicker": "In 2015, someone built it.", "body": "Jonathan Basile, a literature graduate, put a version of the library online. Type any sentence, and it shows you the page where it already exists.\n\nBut open a page at random, and you rarely find more than seven English letters in a row."},
+    {"type": "moral", "lead": "Having every answer is worth nothing if you can't tell which one is true.", "accent": "Meaning comes from choosing, not collecting."},
+    {"type": "cta", "line": "Save this for the next time you're drowning in information."}
+  ],
+  "caption": "In 1941, Borges imagined a library holding every possible book. Every answer, every truth, every lie. And it drove its readers to despair.\n\nIn 2015, someone actually built it online. It's still useless, and still fascinating. 📚\n\nWhat would you search for first?\n\n#books #borges #philosophy #didyouknow #lifelessons",
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Library_of_Babel",
+    "https://translatingtheclassics.courseblogs.amherst.edu/the-library-of-babel-version-1",
+    "https://www.smithsonianmag.com/innovation/digital-library-contains-every-phrase-that-could-ever-be-uttered-180956623",
+    "https://inverse.com/article/7785-jonathan-basile-on-the-digital-library-of-babel-a-collection-of-every-book"
+  ],
+  "status": "pending"
+}
