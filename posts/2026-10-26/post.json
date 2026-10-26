@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-26",
+  "topic": "Oklo natural nuclear reactor, Gabon",
+  "slides": [
+    {"type": "cover", "title": "In 1972, France found uranium that had already been used.", "accent": "By nature.", "sub": "Two billion years ago."},
+    {"type": "text", "kicker": "A tiny number was off.", "body": "At a French nuclear fuel plant, a routine check on ore from Oklo, in Gabon, found 0.717% uranium-235.\n\nEverywhere else, in Earth's crust, on the Moon, even in meteorites, the figure is 0.720%."},
+    {"type": "text", "kicker": "Small gap. Big problem.", "body": "In part of the mine, the shortfall added up to about 200 kg of uranium-235. Enough for several bombs.\n\nNothing had been stolen. Investigators traced the missing atoms back to the rock itself."},
+    {"type": "text", "kicker": "The mine had been a reactor.", "body": "Two billion years ago, natural uranium held about 3% uranium-235, close to modern reactor fuel.\n\nWhen groundwater seeped into the ore, it slowed the neutrons just enough. A chain reaction started. On its own."},
+    {"type": "diagram", "kicker": "It switched itself on and off.", "script": "diagram.py", "body": "Roughly every three hours. In some zones, for more than 150,000 years."},
+    {"type": "text", "kicker": "One scientist had seen it coming.", "body": "In 1956, Paul Kuroda calculated that a natural reactor was possible. Few took the idea seriously.\n\nOklo proved him right. Today its rocks help scientists study how nuclear waste moves underground."},
+    {"type": "moral", "lead": "When a number is slightly off, it's tempting to round it away.", "accent": "Sometimes the anomaly is the discovery."},
+    {"type": "cta", "line": "Save this for the next time a result looks wrong."}
+  ],
+  "caption": "In 1972, a routine check found uranium that was missing a tiny bit of its fuel. The explanation: the mine in Gabon had run as a natural nuclear reactor, two billion years ago. ☢️\n\nThe smallest anomaly can hide the biggest story.\n\nHave you ever ignored a small detail that turned out to matter?\n\n#science #physics #history #didyouknow #lifelessons",
+  "sources": [
+    "https://www.scientificamerican.com/article/the-workings-of-an-ancien/",
+    "https://physics.aps.org/story/v14/st18",
+    "https://www.sauvonsleclimat.org/en/resources/document-database/the-natural-reactors-at-oklo"
+  ],
+  "status": "pending"
+}
