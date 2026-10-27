@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-27",
+  "topic": "Onfim, Novgorod birch-bark doodles",
+  "slides": [
+    {"type": "cover", "title": "800 years ago, a boy got bored doing his homework.", "accent": "We still have his doodles.", "sub": "His name was Onfim."},
+    {"type": "text", "kicker": "Novgorod, in medieval Russia.", "body": "For everyday writing, people here didn't use costly parchment. They scratched words into soft birch bark with a pointed tool of metal or bone.\n\nLetters, business deals, shopping lists, even a marriage proposal."},
+    {"type": "text", "kicker": "Some of it was a child's homework.", "body": "Around the mid-1200s, a boy of about six or seven practised his alphabet, repeated syllables and copied lines from the Psalms.\n\nThen, in the margins, he started to draw."},
+    {"type": "diagram", "kicker": "Knights, horses, slain enemies.", "script": "diagram.py", "body": "His figures have anywhere from three to eight fingers. He probably hadn't learned to count yet."},
+    {"type": "text", "kicker": "“I am a wild beast.”", "body": "On one piece he drew a creature with a long neck, pointed ears and a curly tail, and labelled it as himself.\n\nOn another: “Greetings from Onfim to Danilo.” Most likely a classmate."},
+    {"type": "text", "kicker": "The mud kept everything.", "body": "Novgorod's wet, oxygen-poor soil preserved the bark for centuries. Since 1951, archaeologists have dug up more than a thousand birch-bark texts there.\n\nSeventeen of them are Onfim's."},
+    {"type": "text", "kicker": "No chronicle bothered to record this.", "body": "Official history tells us about princes and wars. Onfim's scraps show something nobody thought worth writing down.\n\nHow a child learned to read, 800 years ago. And how his mind wandered."},
+    {"type": "moral", "lead": "History remembers what people meant to leave behind.", "accent": "But it often learns the most from what they never meant to keep."},
+    {"type": "cta", "line": "Save this for the next time you doodle in a meeting."}
+  ],
+  "caption": "Around 800 years ago, a boy in Novgorod was supposed to be practising his alphabet on strips of birch bark. Instead, he drew knights, horses and himself as a wild beast.\n\nThe mud kept it all, and today his homework is one of the most charming windows into medieval childhood. ✏️\n\nWhat would future historians learn from your doodles?\n\n#history #archaeology #medieval #didyouknow #lifelessons",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Onfim",
+    "https://livescience.com/archaeology/onfims-doodle-a-13th-century-kids-self-portrait-on-horseback-slaying-an-enemy",
+    "https://www.amusingplanet.com/2019/02/what-7-year-old-russian-boy-doodled-in.html"
+  ],
+  "status": "pending"
+}
