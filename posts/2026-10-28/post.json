@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-28",
+  "topic": "The doorway effect (Radvansky 2011, McFadyen & Baumann 2021)",
+  "slides": [
+    {"type": "cover", "title": "You walk into the kitchen. And you forget why.", "accent": "Blame the door.", "sub": "Psychologists tested it."},
+    {"type": "text", "kicker": "Almost everyone has done this.", "body": "You get up with a clear plan. You walk into the next room.\n\nAnd the plan is gone. You stand there, trying to remember what you came for."},
+    {"type": "text", "kicker": "Notre Dame, 2011.", "body": "Psychologist Gabriel Radvansky had students carry objects through a virtual building, then quizzed them on what they were holding.\n\nThose who had just walked through a doorway forgot more than those who walked the same distance inside one room."},
+    {"type": "text", "kicker": "Then he tried it in real rooms.", "body": "Same result. Walking through a door made memory worse.\n\nGoing back to the first room didn't help either. It wasn't the place that mattered. It was the crossing."},
+    {"type": "diagram", "kicker": "A door is an event boundary.", "script": "diagram.py", "body": "Your mind splits life into episodes. A doorway tells it one has ended, so it files the old one away."},
+    {"type": "text", "kicker": "But there's a twist.", "body": "In 2021, researchers in Australia and the UK tested it again in virtual reality. With nothing else to think about, doorways made no difference.\n\nThe effect only appeared when people were also doing a hard counting task in their heads."},
+    {"type": "text", "kicker": "The door isn't the real problem.", "body": "A busy mind is. When your attention is already full, any small change of scene is enough to push a thought out.\n\nThe researchers' advice: if you want to beat the doorway, keep a focused mind."},
+    {"type": "moral", "lead": "We often blame the moment we lost something.", "accent": "But it was usually already slipping, because our mind was too full to hold it."},
+    {"type": "cta", "line": "Save this for your next trip to the kitchen."}
+  ],
+  "caption": "You walk into the kitchen and forget why you came. Psychologists call it the doorway effect, and they've tested it in real and virtual rooms.\n\nThe twist: doors mostly trip us up when our minds are already full. 🚪\n\nWhat's the last thing you forgot the moment you walked into a room?\n\n#psychology #memory #brain #didyouknow #lifelessons",
+  "sources": [
+    "https://provost.nd.edu/news/walking-through-doorways-causes-forgetting-new-research-shows",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7938580/",
+    "https://bond.edu.au/news/its-not-just-doorways-make-us-forget-what-we-came-for-next-room",
+    "https://neurosciencenews.com/doorway-effect-memory-18003/amp/"
+  ],
+  "status": "pending"
+}
