@@ -6,3 +6,4 @@
 - 2026-10-25 | literature | Imagine a library that holds every possible book. Its readers despaired. (Borges, The Library of Babel)
 - 2026-10-26 | science | In 1972, France found uranium that had already been used. By nature. (Oklo natural reactor, Gabon)
 - 2026-10-27 | history | 800 years ago, a boy got bored doing his homework. We still have his doodles. (Onfim, Novgorod birch bark)
+- 2026-10-28 | psychology | You walk into the kitchen. And you forget why. (The doorway effect, Radvansky / McFadyen & Baumann)
