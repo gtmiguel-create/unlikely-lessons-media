@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-29",
+  "topic": "Exchequer tally sticks and the burning of Parliament (1834)",
+  "slides": [
+    {"type": "cover", "title": "For 700 years, England kept its accounts on sticks.", "accent": "Then the sticks burned down Parliament.", "sub": "London, 16 October 1834."},
+    {"type": "text", "kicker": "Money, notched in wood.", "body": "From around 1100, England's Exchequer recorded taxes and debts on tally sticks: short pieces of wood, usually willow, with notches cut into them.\n\nA notch as thick as a palm meant £1,000. A thumb, £100. A swollen barleycorn, £1."},
+    {"type": "diagram", "kicker": "Then the stick was split in two.", "script": "diagram.py", "body": "Each side kept a half. To check a payment, you fitted them back together. If the notches matched, they \"tallied\"."},
+    {"type": "text", "kicker": "Paper arrived. The sticks stayed.", "body": "Parliament voted to move the Exchequer's records to paper in 1782. But the old system lingered on until 1826.\n\nBy 1834, two cart-loads of useless tally sticks were waiting to be thrown away."},
+    {"type": "text", "kicker": "The quick fix: burn them.", "body": "The Clerk of Works had them fed into two stoves in the basement under the House of Lords. Stoves built for coal, not wood.\n\nWorkmen burned them all day, even as visitors felt the floor above getting hot."},
+    {"type": "text", "kicker": "By evening, Parliament was on fire.", "body": "The heat had crept into the flues. At about 6pm, flames were spotted. By morning, both Houses of Parliament and most of the old palace were gone.\n\nWestminster Hall survived, saved by firefighters and a change in the wind."},
+    {"type": "text", "kicker": "The palace you know came after.", "body": "The Gothic building on the Thames today was designed after the fire by Charles Barry, with Augustus Pugin.\n\nOne of Britain's most famous buildings exists because someone wanted to clear out some old paperwork."},
+    {"type": "moral", "lead": "The riskiest moment for an old system isn't while you keep it.", "accent": "It's the day you decide to get rid of it in a hurry."},
+    {"type": "cta", "line": "Save this for your next big clear-out."}
+  ],
+  "caption": "For about 700 years, England's Exchequer kept its accounts on notched wooden sticks. In 1834, someone decided to burn the leftovers in a stove under the House of Lords.\n\nBy morning, most of Parliament was gone. 🔥\n\nWhat's the oldest system you still rely on at work or at home?\n\n#history #london #parliament #didyouknow #lifelessons",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Burning_of_Parliament",
+    "https://en.wikipedia.org/wiki/Tally_stick",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co60506",
+    "https://webtest.parliament.uk/about/living-heritage/building/palace/architecture/palacestructure/great-fire"
+  ],
+  "status": "pending"
+}
