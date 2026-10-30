@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-30",
+  "topic": "Mummy brown, Edward Burne-Jones",
+  "slides": [
+    {"type": "cover", "title": "For two centuries, painters had a favourite brown.", "accent": "It was made from mummies.", "sub": "Real ones. From Egypt."},
+    {"type": "text", "kicker": "First, mummies were medicine.", "body": "For centuries, European apothecaries sold ground-up Egyptian mummies as a remedy called \"mummia\".\n\nPeople swallowed it, believing it could heal them."},
+    {"type": "text", "kicker": "Then, mummies became paint.", "body": "By 1712, a Paris shop called \"À la momie\" was selling powdered mummy next to its paints and varnishes.\n\nIt made a warm, see-through brown. Painters loved it for glazes and shadows."},
+    {"type": "diagram", "kicker": "The recipe was what it sounds like.", "script": "diagram.py", "body": "Human and even cat mummies were ground up, mixed and sold as a colour."},
+    {"type": "text", "kicker": "Great painters used it.", "body": "By 1849 it was described as \"quite in vogue\". Eugène Delacroix, Lawrence Alma-Tadema and the Pre-Raphaelites are all thought to have used it.\n\nOn the shelf, it looked like any other tube."},
+    {"type": "text", "kicker": "Then Burne-Jones found out.", "body": "Painter Edward Burne-Jones refused to believe it, until Alma-Tadema said he had seen a mummy in a paint-maker's workshop.\n\nBurne-Jones took his tube to the garden and gave it a proper burial. His nephew, Rudyard Kipling, helped."},
+    {"type": "text", "kicker": "In the end, the mummies ran out.", "body": "The paint also cracked and faded, and artists turned to other browns.\n\nIn 1964, a London colour-maker told Time it might have \"a few odd limbs\" left, but not enough to make any more paint."},
+    {"type": "moral", "lead": "Most of what we use every day comes with a story we never ask about.", "accent": "Ask anyway. The answer might change what you're willing to use."},
+    {"type": "cta", "line": "Save this, and ask one more question today."}
+  ],
+  "caption": "For about two centuries, one of painters' favourite browns was made from ground-up Egyptian mummies. When Edward Burne-Jones found out, he buried his tube in the garden. 🎨\n\nWhat's something you use every day without knowing where it comes from?\n\n#arthistory #painting #history #didyouknow #lifelessons",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mummy_brown",
+    "https://artuk.org/discover/stories/the-corpse-on-the-canvas-the-story-of-mummy-brown-paint",
+    "https://daily.jstor.org/when-artists-painted-with-real-mummies/"
+  ],
+  "status": "pending"
+}
