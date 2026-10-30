@@ -8,3 +8,4 @@
 - 2026-10-27 | history | 800 years ago, a boy got bored doing his homework. We still have his doodles. (Onfim, Novgorod birch bark)
 - 2026-10-28 | psychology | You walk into the kitchen. And you forget why. (The doorway effect, Radvansky / McFadyen & Baumann)
 - 2026-10-29 | history | For 700 years, England kept its accounts on sticks. Then the sticks burned down Parliament. (Exchequer tally sticks, Westminster fire 1834)
+- 2026-10-30 | art | For two centuries, painters had a favourite brown. It was made from mummies. (Mummy brown, Burne-Jones)
