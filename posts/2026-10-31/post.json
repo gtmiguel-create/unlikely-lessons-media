@@ -2,23 +2,64 @@
   "date": "2026-10-31",
   "topic": "Fresnel lens, Cordouan lighthouse 1823",
   "slides": [
-    {"type": "cover", "title": "The tiny lens on your phone's flash", "accent": "was designed to save ships.", "sub": "Over 200 years ago."},
-    {"type": "text", "kicker": "Lighthouses wasted most of their light.", "body": "An open flame loses nearly 97% of its light. Even with mirrors behind the lamp, much of the rest was lost.\n\nThe brightest beams reached only 8 to 12 miles out to sea."},
-    {"type": "text", "kicker": "The fix came from a road engineer.", "body": "As a sickly boy, Augustin Fresnel was seen as the slow one in his family.\n\nHe grew up to build roads for the French state. In his spare time, he studied how light moves in waves."},
-    {"type": "diagram", "kicker": "A big lens is mostly dead weight.", "script": "diagram.py", "body": "Only the curved surface bends the light. Fresnel kept the curves and cut away the glass in between."},
-    {"type": "text", "kicker": "25 July 1823. Cordouan lighthouse.", "body": "In 1819, Fresnel joined France's lighthouse commission. Four years later, his first lens was lit at Cordouan, at the mouth of the Gironde.\n\nIt lost at most about 20% of its light. Its beam could reach the horizon, over 20 miles away."},
-    {"type": "text", "kicker": "He never saw how far it went.", "body": "Fresnel died of tuberculosis in 1827, at just 39.\n\nHis rings of glass spread to lighthouses around the world. Today they sit in car lights, traffic lights, VR headsets and many phone flashes."},
-    {"type": "moral", "lead": "Better doesn't always mean adding more.", "accent": "Sometimes it means removing everything that isn't doing the work."},
-    {"type": "cta", "line": "Save this for the next time you switch on your flash."}
+    {
+      "type": "cover",
+      "title": "The tiny lens on your phone's flash",
+      "accent": "was designed to save ships.",
+      "sub": "Over 200 years ago."
+    },
+    {
+      "type": "text",
+      "kicker": "Lighthouses wasted most of their light.",
+      "body": "An open flame loses nearly 97% of its light. Even with mirrors behind the lamp, much of the rest was lost.\n\nThe brightest beams reached only 8 to 12 miles out to sea."
+    },
+    {
+      "type": "text",
+      "kicker": "The fix came from a road engineer.",
+      "body": "As a sickly boy, Augustin Fresnel was seen as the slow one in his family.\n\nHe grew up to build roads for the French state. In his spare time, he studied how light moves in waves."
+    },
+    {
+      "type": "diagram",
+      "kicker": "A big lens is mostly dead weight.",
+      "script": "diagram.py",
+      "body": "Only the curved surface bends the light. Fresnel kept the curves and cut away the glass in between."
+    },
+    {
+      "type": "text",
+      "kicker": "25 July 1823. Cordouan lighthouse.",
+      "body": "In 1819, Fresnel joined France's lighthouse commission. Four years later, his first lens was lit at Cordouan, at the mouth of the Gironde.\n\nIt lost at most about 20% of its light. Its beam could reach the horizon, over 20 miles away."
+    },
+    {
+      "type": "text",
+      "kicker": "He never saw how far it went.",
+      "body": "Fresnel died of tuberculosis in 1827, at just 39.\n\nBut his rings of glass spread to lighthouses all around the world, and then far beyond the sea."
+    },
+    {
+      "type": "text",
+      "kicker": "Now look closely at a flash.",
+      "body": "The same rings of glass shape the light in photo flashes and studio lights, and in the tiny flash on many phones.\n\nThey're in car lights, traffic lights and VR headsets too."
+    },
+    {
+      "type": "moral",
+      "lead": "Better doesn't always mean adding more.",
+      "accent": "Sometimes it means removing everything that isn't doing the work."
+    },
+    {
+      "type": "cta",
+      "line": "Save this for the next time you switch on your flash."
+    }
   ],
-  "caption": "The little lens over many phone flashes started as a way to save ships. In 1823, a road engineer named Augustin Fresnel cut a heavy lens into thin rings of glass, and lighthouse beams reached the horizon. 🔦\n\nWhat's something you made better by taking something away?\n\n#history #science #lighthouse #didyouknow #lifelessons",
+  "caption": "The lens in front of many camera and phone flashes started as a way to save ships. In 1823, a road engineer named Augustin Fresnel cut a heavy lens into thin rings of glass, and lighthouse beams reached the horizon. 🔦\n\nWhat's something you made better by taking something away?\n\n#history #science #lighthouse #didyouknow #lifelessons",
   "sources": [
     "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel",
     "https://en.wikipedia.org/wiki/Fresnel_lens",
     "https://en.wikipedia.org/wiki/Cordouan_Lighthouse",
     "https://cordouan.culture.gouv.fr/en/cordouans-first-lens",
     "https://www.nps.gov/caha/learn/historyculture/fresnellens.htm",
-    "https://patents.google.com/patent/US8662703"
+    "https://spectrum.ieee.org/fresnel-lens-milestone",
+    "https://francetoday.com/learn/apps-technology/lighthouse-lore-french-fresnel-lens-brought-light-to-naval-navigation/",
+    "https://patents.google.com/patent/US8662703",
+    "https://patents.google.com/patent/US4141059"
   ],
   "status": "pending"
 }
