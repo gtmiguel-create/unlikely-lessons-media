@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-01",
+  "topic": "Bir Tawil, the 1899 and 1902 Egypt-Sudan boundaries",
+  "slides": [
+    {"type": "cover", "title": "There is a piece of land that no country wants.", "accent": "Not even its neighbours.", "sub": "The reason is next door."},
+    {"type": "text", "kicker": "Meet Bir Tawil.", "body": "About 2,060 km² of rocky desert on the border between Egypt and Sudan.\n\nNo permanent towns. No coastline. And neither country has ever claimed it."},
+    {"type": "text", "kicker": "1899: a straight line.", "body": "When Britain and Egypt agreed on Sudan's northern border, they used a ruler: the 22nd parallel.\n\nEverything south of it was Sudan. Everything north was Egypt."},
+    {"type": "text", "kicker": "1902: a second line.", "body": "Three years later, Britain drew an administrative line to match how local tribes really used the land.\n\nBir Tawil, grazing land for the Ababda people from near Aswan, went to Egypt. The Halaib Triangle, on the Red Sea, went to Sudan."},
+    {"type": "diagram", "kicker": "Two lines. One trap.", "script": "diagram.py", "body": "Egypt backs the 1899 line. Sudan backs 1902. Each picks the line that gives it Halaib, and each line hands Bir Tawil to the other side."},
+    {"type": "text", "kicker": "Halaib is ten times bigger.", "body": "About 20,580 km², with a long Red Sea coast.\n\nClaiming the small desert would mean accepting the line that loses the big prize. So both countries look away."},
+    {"type": "text", "kicker": "Then a dad from Virginia showed up.", "body": "In 2014, Jeremiah Heaton planted a flag there on his daughter's seventh birthday, so she could be a princess.\n\nNo government recognised his kingdom. The land still belongs to no one."},
+    {"type": "moral", "lead": "Sometimes we refuse something good, not because it's worthless,", "accent": "but because taking it means letting go of what we really want."},
+    {"type": "cta", "line": "Save this for the next time you say no to a good thing."}
+  ],
+  "caption": "Between Egypt and Sudan lies a patch of desert that no country claims. Not because it's worthless, but because claiming it would mean giving up a bigger piece of land next door.\n\nTwo old British lines, drawn three years apart, created the trap. 🏜️\n\nWhat have you turned down just to keep a bigger hope alive?\n\n#history #geography #maps #didyouknow #lifelessons",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bir_Tawil",
+    "https://en.wikipedia.org/wiki/Halaib_Triangle",
+    "https://www.aljazeera.com/features/2015/5/11/creating-the-kingdom-of-north-sudan"
+  ],
+  "status": "pending"
+}
