@@ -5,6 +5,7 @@ Instagram's publishing API needs public image URLs, so each day's slides are pus
 here, published via the Windsor.ai Instagram connector, and then removed.
 
 - `tools/render.py` — renders a carousel from `posts/<date>/post.json` (see docstring).
+- `tools/story.py` — renders a 1080×1920 story teaser (`story.jpg`) from the post's cover.
 - `fonts/` — DM Serif Display, Inter (SIL Open Font License).
 - `posts/<date>/` — one folder per post: `post.json`, optional `diagram.py`, `slide_XX.jpg`.
 - `log.md` — one line per published post (date | topic | title), used to avoid repeats.
