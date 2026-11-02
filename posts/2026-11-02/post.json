@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-02",
+  "topic": "European eel, Aristotle, Freud, Johannes Schmidt, Sargasso Sea",
+  "slides": [
+    {"type": "cover", "title": "Aristotle couldn't explain this fish. Neither could Freud.", "accent": "No one has seen it breed.", "sub": "Not in the wild. Not once."},
+    {"type": "text", "kicker": "Aristotle's answer: they come from mud.", "body": "He could find no sex organs on an eel. So he concluded that eels must be born from mud and moist earth.\n\nMuch of the ancient world believed him."},
+    {"type": "text", "kicker": "In 1876, a student took up the hunt.", "body": "A young medical student from Vienna went to Trieste to find the male eel. He dissected about 400.\n\n\"All the eels I cut open,\" he wrote, \"are of the gentler sex.\"\n\nHis name was Sigmund Freud."},
+    {"type": "text", "kicker": "Then, in 1904, one tiny larva.", "body": "Danish biologist Johannes Schmidt caught a young eel larva off the Faroe Islands, far from any European coast.\n\nWhere had it come from? He spent roughly the next 25 years trying to find out."},
+    {"type": "diagram", "kicker": "The further west, the smaller the larvae.", "script": "diagram.py", "body": "So Schmidt kept sailing west. In 1922 he named the place: the Sargasso Sea, thousands of kilometres from Europe's rivers."},
+    {"type": "text", "kicker": "He never found an adult there.", "body": "That took another century. Scientists tagged 26 eels and released them from the Azores. A handful reached the Sargasso.\n\nPublished in 2022, it was the first direct evidence that adults make the trip, up to 10,000 km."},
+    {"type": "text", "kicker": "And still, no one has seen it happen.", "body": "No one has ever observed eels spawning there. Eggs have never been sampled there either.\n\nMeanwhile, the European eel is critically endangered. Numbers returning to its rivers are down 95% since the 1980s."},
+    {"type": "moral", "lead": "Some questions are bigger than one lifetime.", "accent": "Each person who fails shows the next one where to look."},
+    {"type": "cta", "line": "Save this for the next time you feel stuck."}
+  ],
+  "caption": "Aristotle thought eels came from mud. Freud dissected about 400 looking for a male. A Danish biologist chased one larva across the Atlantic for decades.\n\nThe eel has been keeping its secret for more than 2,000 years, and no one has seen it spawn in the wild. 🌊\n\nWhich unsolved mystery would you most like to see answered?\n\n#eels #naturefacts #sciencehistory #didyouknow #lifelessons",
+  "sources": [
+    "https://www.historytoday.com/archive/natural-histories/sexual-eeling",
+    "https://chsi.harvard.edu/current_exhibitions/freud-interp-drawings/freud-scientist-riddle-eel",
+    "https://www.ices.dk/news-and-events/news-archive/news/Pages/Noted-Danish-scientist-eulogized-at-ASC.aspx",
+    "https://en.wikipedia.org/wiki/Eel_life_history",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9562336",
+    "https://www.gov.uk/government/news/ancient-mystery-of-european-eel-migration-unravelled-to-help-combat-decline-of-critically-endangered-species",
+    "https://www.slu.se/en/news/2026/04/pa-jakt-efter-alens-hemligheter-mitt-ute-i-sargassohavet/"
+  ],
+  "status": "pending"
+}
