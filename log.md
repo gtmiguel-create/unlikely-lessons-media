@@ -10,3 +10,4 @@
 - 2026-10-29 | history | For 700 years, England kept its accounts on sticks. Then the sticks burned down Parliament. (Exchequer tally sticks, Westminster fire 1834)
 - 2026-10-30 | art | For two centuries, painters had a favourite brown. It was made from mummies. (Mummy brown, Burne-Jones)
 - 2026-10-31 | technology | The tiny lens on your phone's flash was designed to save ships. (Fresnel lens, Cordouan lighthouse 1823)
+- 2026-11-01 | geography | There is a piece of land that no country wants. Not even its neighbours. (Bir Tawil, 1899/1902 Egypt-Sudan lines)
