@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-03",
+  "topic": "Swedish calendar, February 30 1712",
+  "slides": [
+    {"type": "cover", "title": "In 1712, Sweden lived through a date no one else had.", "accent": "February 30.", "sub": "It was the fix for a mistake."},
+    {"type": "text", "kicker": "Sweden wanted a gentle change.", "body": "Catholic countries had jumped to the new Gregorian calendar by deleting days. Protestant Sweden kept the old Julian one.\n\nIts plan: skip 11 leap days, one at a time, over 40 years."},
+    {"type": "text", "kicker": "It worked for one leap day.", "body": "In 1700, February 29 was skipped, as planned.\n\nThen the Great Northern War got in the way. 1704 and 1708 kept their leap days, and the plan quietly stalled."},
+    {"type": "text", "kicker": "Now Sweden matched no one.", "body": "Its calendar sat one day ahead of the old system and ten days behind the new one.\n\nIn 1709, Swedes marked Easter a week before Julian countries and four weeks after Gregorian ones."},
+    {"type": "text", "kicker": "The king called it off.", "body": "In January 1711, Charles XII wrote from his camp in Bender, in today's Moldova: go back to the old calendar.\n\nBut the day removed in 1700 had to be returned. The next leap year would need an extra one."},
+    {"type": "diagram", "kicker": "So February got a 30th day.", "script": "diagram.py", "body": "One day, three dates. That made 1712 a 367-day year in Sweden."},
+    {"type": "text", "kicker": "Then Sweden did the simple thing.", "body": "In 1753, it took the new calendar in one go. February 17 was followed by March 1.\n\nEleven days gone overnight. Many people felt robbed of them."},
+    {"type": "moral", "lead": "A slow change can feel like the safe choice.", "accent": "But halfway between two systems is the worst place to stop."},
+    {"type": "cta", "line": "Save this for the next half-finished change."}
+  ],
+  "caption": "In 1700, Sweden tried to change calendars slowly, one leap day at a time. War stalled the plan, and twelve years later it took a February 30 to undo it.\n\nHalf a change can leave you worse off than either option. 📅\n\nWhat's a change you've seen stall halfway?\n\n#history #calendar #sweden #didyouknow #lifelessons",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Swedish_calendar",
+    "https://en.wikipedia.org/wiki/February_30",
+    "https://hhogman.se/change-of-calendars-sweden.htm",
+    "https://www.swedishfinnhistoricalsociety.org/2020/07/19/eleven-days-that-disappeared/",
+    "https://www.timeanddate.com/date/february-30.html"
+  ],
+  "status": "pending"
+}
