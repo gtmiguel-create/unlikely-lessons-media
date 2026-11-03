@@ -12,3 +12,4 @@
 - 2026-10-31 | technology | The tiny lens on your phone's flash was designed to save ships. (Fresnel lens, Cordouan lighthouse 1823)
 - 2026-11-01 | geography | There is a piece of land that no country wants. Not even its neighbours. (Bir Tawil, 1899/1902 Egypt-Sudan lines)
 - 2026-11-02 | nature | Aristotle couldn't explain this fish. Neither could Freud. (European eel, Johannes Schmidt, Sargasso Sea)
+- 2026-11-03 | history | In 1712, Sweden lived through a date no one else had. February 30. (Swedish calendar, 1700-1753)
