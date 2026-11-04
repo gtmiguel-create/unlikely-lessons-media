@@ -13,3 +13,4 @@
 - 2026-11-01 | geography | There is a piece of land that no country wants. Not even its neighbours. (Bir Tawil, 1899/1902 Egypt-Sudan lines)
 - 2026-11-02 | nature | Aristotle couldn't explain this fish. Neither could Freud. (European eel, Johannes Schmidt, Sargasso Sea)
 - 2026-11-03 | history | In 1712, Sweden lived through a date no one else had. February 30. (Swedish calendar, 1700-1753)
+- 2026-11-04 | psychology | For almost 100 years, we've quoted one finding about unfinished tasks. It didn't hold up. (Zeigarnik vs Ovsiankina, Ghibellini & Meier 2025)
