@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-04",
+  "topic": "Zeigarnik effect vs Ovsiankina effect",
+  "slides": [
+    {"type": "cover", "title": "For almost 100 years, we've quoted one finding about unfinished tasks.", "accent": "It didn't hold up.", "sub": "Her classmate's did."},
+    {"type": "text", "kicker": "It began with a restaurant bill.", "body": "In 1920s Berlin, psychologist Kurt Lewin noticed something odd about waiters.\n\nThey could recall the details of a bill until it was paid. Then the details were gone."},
+    {"type": "text", "kicker": "His student put it to the test.", "body": "Bluma Zeigarnik gave people a series of tasks and interrupted some of them.\n\nIn 1927 she reported that unfinished tasks were remembered far better than finished ones. The Zeigarnik effect was born."},
+    {"type": "text", "kicker": "Her classmate asked a different question.", "body": "Maria Ovsiankina, also taught by Lewin, didn't ask what people remember. She asked what they do.\n\nIn her 1928 study, people interrupted mid-task tended to go back to it, often unprompted."},
+    {"type": "text", "kicker": "The famous result proved hard to repeat.", "body": "Later experiments, in other countries, often found no real gap in memory between finished and unfinished tasks.\n\nStill, the idea kept spreading."},
+    {"type": "diagram", "kicker": "In 2025, someone added it all up.", "script": "diagram.py", "body": "A review of 59 publications found no overall memory advantage for unfinished tasks."},
+    {"type": "text", "kicker": "But people still went back.", "body": "Across the studies, about two in three interrupted tasks were picked up again.\n\nZeigarnik's effect may appear in some situations. It just isn't a general rule. Ovsiankina's tendency is."},
+    {"type": "moral", "lead": "The idea everyone repeats isn't always the one that survives the test.", "accent": "Fame isn't evidence."},
+    {"type": "cta", "line": "Save this for the next time you hear \"studies show\"."}
+  ],
+  "caption": "Unfinished tasks stick in your memory. That's the famous Zeigarnik effect, and a 2025 review of the research found it isn't a general rule.\n\nWhat did hold up came from her classmate, Maria Ovsiankina: we tend to go back to what we left unfinished. 🔁\n\nWhich \"fact\" did you believe for years before finding out it was wrong?\n\n#psychology #science #memory #didyouknow #lifelessons",
+  "sources": ["https://ideas.repec.org/a/pal/palcom/v12y2025i1d10.1057_s41599-025-05000-w.html", "https://www.kog.psy.unibe.ch/e48276/e1785865/s41599-025-05000-w1_ger.pdf", "https://en.wikipedia.org/wiki/Zeigarnik_effect", "https://en.wikipedia.org/wiki/Maria_Ovsiankina", "https://www.theparisreview.org/blog/2019/07/23/why-cant-we-forget-what-weve-left-undone/", "https://www.oeagp.at/wp-content/uploads/Lindorfer2012OvsiankinasPionierstudie.pdf"],
+  "status": "pending"
+}
