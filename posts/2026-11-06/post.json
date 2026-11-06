@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-06",
+  "topic": "Doves Type, Cobden-Sanderson, Emery Walker, River Thames",
+  "slides": [
+    {"type": "cover", "title": "In 1916, a 75-year-old walked onto a bridge at night.", "accent": "To drown a typeface.", "sub": "It took him about 170 trips."},
+    {"type": "text", "kicker": "Two friends. One beautiful alphabet.", "body": "In 1900, Thomas Cobden-Sanderson and Emery Walker founded the Doves Press in Hammersmith, London.\n\nTheir type, cut in a single size, was based on Venetian letters from the 1400s."},
+    {"type": "text", "kicker": "Then the partnership fell apart.", "body": "By 1909, they were fighting over the type. Friends brokered a deal: Cobden-Sanderson could use it for life. When he died, it would pass to Walker.\n\nHe decided that would never happen."},
+    {"type": "diagram", "kicker": "A typeface was three things.", "script": "diagram.py", "body": "Without punches and matrices, no new letters can be cast. In 1913, he threw those into the Thames."},
+    {"type": "text", "kicker": "Then he came for the letters.", "body": "From August 1916, he carried the type to Hammersmith Bridge after dark, in a wooden box, and let it fall.\n\nAbout 170 trips. More than a tonne of metal. By early 1917, it was gone."},
+    {"type": "text", "kicker": "He called it a bequest.", "body": "In 1917, he announced that the press was closed and the type had been \"bequeathed\" to the river.\n\nHe died in 1922. With nothing left to inherit, Walker sued his widow. They settled out of court."},
+    {"type": "text", "kicker": "The river kept the letters.", "body": "Designer Robert Green spent years redrawing the type digitally, then went looking under the bridge.\n\nIn October 2014, he found three pieces in about 20 minutes. Then divers joined the search: about 150 pieces in all."},
+    {"type": "moral", "lead": "Try to erase something out of spite,", "accent": "and you may be the reason it's remembered."},
+    {"type": "cta", "line": "Save this for the next time you feel like burning a bridge."}
+  ],
+  "caption": "In 1916, the printer T. J. Cobden-Sanderson began throwing the Doves Type off Hammersmith Bridge into the River Thames, so that his former partner Emery Walker could never have it. Almost a century later, designer Robert Green went looking for the lost typeface, and found it.\n\nWhat's the pettiest thing you've ever seen someone do to win an argument?\n\n#typography #dovespress #typedesign #printinghistory #riverthames",
+  "sources": ["https://typespec.co.uk/?p=10095", "https://www.londonmuseum.org.uk/blog/doves-type-thames-mystery-mudlarking/", "https://historyofinformation.com/detail.php?id=3896", "https://www.thisiscolossal.com/2024/05/doves-type/", "https://www.cphc.org.uk/updates/2016/2/21/salvaging-the-doves-press-type", "https://news.artnet.com/art-world/doves-typeface-2454807", "https://en.wikipedia.org/wiki/T._J._Cobden-Sanderson", "https://en.wikipedia.org/wiki/Punchcutting"],
+  "status": "pending"
+}
