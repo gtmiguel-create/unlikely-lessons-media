@@ -16,3 +16,4 @@
 - 2026-11-04 | psychology | For almost 100 years, we've quoted one finding about unfinished tasks. It didn't hold up. (Zeigarnik vs Ovsiankina, Ghibellini & Meier 2025)
 - 2026-11-05 | economics | In 1911, a government sent a secret mission for the perfect feather. Then fashion moved on. (Trans-Saharan Ostrich Expedition, Russell Thornton)
 - 2026-11-06 | design | In 1916, a 75-year-old walked onto a bridge at night. To drown a typeface. (Doves Type, Cobden-Sanderson, Emery Walker)
+- 2026-11-07 | technology | In 1906, New Yorkers could stream music. From a 200-ton machine. (Telharmonium, Thaddeus Cahill)
