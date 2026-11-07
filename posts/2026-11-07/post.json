@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-07",
+  "topic": "Telharmonium, Thaddeus Cahill, New York",
+  "slides": [
+    {"type": "cover", "title": "In 1906, New Yorkers could stream music.", "accent": "From a 200-ton machine.", "sub": "No one alive has heard it."},
+    {"type": "text", "kicker": "A lawyer with a musical idea.", "body": "Thaddeus Cahill had studied the physics of music before training as a lawyer.\n\nIn 1897, he patented a bold plan: make music with electricity, and send it down telephone lines to anyone who wanted it."},
+    {"type": "diagram", "kicker": "Spinning wheels made the notes.", "script": "diagram.py", "body": "Each rotor produced one pitch. Musicians at the keyboards mixed them, and the sound travelled over the phone network."},
+    {"type": "text", "kicker": "It weighed about 200 tons.", "body": "Cahill built his big machine in Holyoke, Massachusetts. In 1906, moving it to New York took around 30 railway boxcars.\n\nIt filled a whole floor below a music room at Broadway and 39th Street."},
+    {"type": "text", "kicker": "Music on tap. 20 cents an hour.", "body": "Restaurants and hotels plugged in first. The music came out of telephone receivers fitted with horns.\n\nMark Twain was a fan."},
+    {"type": "text", "kicker": "Then the phones started singing.", "body": "The machine needed huge electric currents. Its music leaked into nearby phone lines and cut into ordinary calls.\n\nIn 1907, AT&T's head of engineering judged it would disturb regular phone service."},
+    {"type": "text", "kicker": "Bankrupt, scrapped, silent.", "body": "Partners left and the money ran out. Cahill filed for bankruptcy in 1914, and his machines were sold for scrap.\n\nNo recording survives. But its spinning-wheel idea lived on in the Hammond organ."},
+    {"type": "moral", "lead": "Being right about the future isn't enough.", "accent": "The world also has to be ready for it."},
+    {"type": "cta", "line": "Save this for the next time you're early to an idea."}
+  ],
+  "caption": "In 1906, inventor Thaddeus Cahill streamed electric music to New York restaurants and hotels over telephone lines, from a 200-ton machine called the Telharmonium. It was one of the first electronic instruments, and no recording of it survives.\n\nWhich invention do you think arrived too early?\n\n#telharmonium #electronicmusic #musichistory #thaddeuscahill #historyofmusic",
+  "sources": ["https://www.atlasobscura.com/articles/the-telharmonium-was-the-spotify-of-1906", "https://cabinetmagazine.org/issues/9/dewan.php", "https://en.wikipedia.org/wiki/Thaddeus_Cahill", "https://www.perfectcircuit.com/signal/telharmonium-history", "https://journalofmusic.com/focus/where-electronic-music-began", "https://www.dsprelated.com/freebooks/sasp/Telharmonium.html"],
+  "status": "pending"
+}
