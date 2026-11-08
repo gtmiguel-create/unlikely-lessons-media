@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "topic": "Neurath's boat, Otto Neurath",
+  "slides": [
+    {"type": "cover", "title": "In 1932, a philosopher said we are all sailors.", "accent": "Then he had to become one.", "sub": "A story about fixing things while you're still afloat."},
+    {"type": "text", "kicker": "Vienna, early 1930s.", "body": "Otto Neurath was an Austrian philosopher and economist, part of the famous Vienna Circle.\n\nSome of his colleagues hoped to rest all of science on perfectly certain foundations. Neurath thought that was impossible."},
+    {"type": "text", "kicker": "He explained why in one image.", "body": "\"We are like sailors who must rebuild their ship on the open sea, without ever being able to take it apart in a dock and build it again from new parts.\""},
+    {"type": "diagram", "kicker": "No dry dock. Ever.", "script": "diagram.py", "body": "You can't step off what you know to fix it. You swap one plank at a time, while it carries you."},
+    {"type": "text", "kicker": "Eight years later, it stopped being a metaphor.", "body": "Neurath had already fled Austria for The Hague. In May 1940, as Germany invaded the Netherlands, he and his colleague Marie Reidemeister escaped across the sea in an open lifeboat, packed with refugees.\n\nA British destroyer picked them up."},
+    {"type": "text", "kicker": "Britain locked him up.", "body": "As an Austrian, he was interned as an \"enemy alien\" on the Isle of Man.\n\nReleased, he married Marie in 1941. In Oxford they set up the Isotype Institute, for his picture language: a forerunner of today's infographics."},
+    {"type": "text", "kicker": "He never got a dry dock either.", "body": "Vienna, The Hague, Oxford. Each time, he rebuilt his work without stopping. He died in Oxford in 1945.\n\nHis image outlived him. Philosophers still call it \"Neurath's boat\"."},
+    {"type": "moral", "lead": "You rarely get to stop your life and rebuild it from scratch.", "accent": "So repair it plank by plank, while it keeps you afloat."},
+    {"type": "cta", "line": "Save this for the next time you want to start over."}
+  ],
+  "caption": "In 1932, philosopher Otto Neurath wrote that we are like sailors who must rebuild their ship on the open sea. In 1940, he fled the Nazi invasion of the Netherlands in an open lifeboat.\n\nNeurath's boat is still one of philosophy's best images for how knowledge, and lives, actually change.\n\nWhat's one plank you're replacing right now?\n\n#OttoNeurath #NeurathsBoat #ViennaCircle #PhilosophyOfScience #Isotype",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Otto_Neurath",
+    "https://www.spektrum.de/lexikon/philosophie/schiffsmetapher/1825",
+    "https://philpapers.org/rec/NEUP",
+    "https://isotyperevisited.org/2011/07/voyage-of-the-zeemanshoop.php",
+    "https://en.wikipedia.org/wiki/HMS_Venomous",
+    "https://en.wikipedia.org/wiki/Marie_Neurath"
+  ],
+  "status": "pending"
+}
