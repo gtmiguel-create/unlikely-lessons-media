@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-09",
+  "topic": "Dickson Fjord megatsunami and seiche, Greenland 2023",
+  "slides": [
+    {"type": "cover", "title": "In September 2023, the whole planet started to hum.", "accent": "For nine days.", "sub": "And nobody knew why."},
+    {"type": "text", "kicker": "A signal no one could explain.", "body": "Seismometers from the Arctic to Antarctica picked up a strange vibration. Not an earthquake: one steady note, repeating about every 90 seconds.\n\nPuzzled scientists called it a USO, an \"unidentified seismic object\"."},
+    {"type": "text", "kicker": "The clue came from a remote fjord.", "body": "On 16 September 2023, in Dickson Fjord, East Greenland, a mountain peak 1.2 km high collapsed.\n\nMore than 25 million cubic metres of rock and ice fell into the water. Enough to fill about 10,000 Olympic pools."},
+    {"type": "text", "kicker": "The splash was 200 metres high.", "body": "It set off a mega-tsunami. About 70 km away, 4-metre waves damaged a research base on Ella Island.\n\nThe fjord is on a common cruise route. Luckily, that day, no ships were nearby."},
+    {"type": "diagram", "kicker": "Then the wave got trapped.", "script": "diagram.py", "body": "Hemmed in by steep walls, the water sloshed side to side about every 90 seconds. Each swing gave the Earth a tiny push."},
+    {"type": "text", "kicker": "68 scientists. 15 countries.", "body": "It took a team from 40 institutions to link the hum to the wave. Their study appeared in Science in 2024.\n\nIn 2025, a satellite study confirmed it: the water surface had tilted by up to 2 metres, one way, then the other."},
+    {"type": "text", "kicker": "The real cause was slow.", "body": "For decades, as the climate warmed, the glacier at the foot of the mountain had been thinning. It had been helping hold the slope in place.\n\nThen, one day, it couldn't."},
+    {"type": "moral", "lead": "Slow changes don't stay slow forever.", "accent": "They build quietly, then arrive all at once."},
+    {"type": "cta", "line": "Save this for the next time something seems fine."}
+  ],
+  "caption": "In September 2023, seismometers around the world recorded a mysterious hum that lasted nine days. The cause: a landslide in Dickson Fjord, East Greenland, set off a 200-metre mega-tsunami that kept sloshing inside the fjord.\n\nA glacier thinning for decades, then one mountain falling in a single day.\n\nWhat slow change around you might be quietly building up?\n\n#DicksonFjord #Greenland #Megatsunami #Seiche #Seismology",
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/39264997/",
+    "https://eng.geus.dk/about/news/news-archive/2024/september/climate-change-triggered-landslide-caused-earth-to-vibrate-for-9-days",
+    "https://www.ucl.ac.uk/mathematical-physical-sciences/news/2024/sep/climate-change-triggered-landslide-caused-earth-vibrate-nine-days",
+    "https://www.livescience.com/planet-earth/a-mysterious-seismic-event-shook-earth-for-9-days-straight-in-2023-now-scientists-have-found-its-origins",
+    "https://www.ox.ac.uk/news/2025-06-03-first-direct-observation-trapped-waves-shook-world"
+  ],
+  "status": "pending"
+}
