@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-11",
+  "topic": "Endowed progress effect, Nunes & Drèze car wash study",
+  "slides": [
+    {"type": "cover", "title": "A car wash gave away two free stamps.", "accent": "Nearly twice as many people finished.", "sub": "The stamps were worth nothing."},
+    {"type": "text", "kicker": "A car wash. 300 loyalty cards.", "body": "In 2004, marketing professors Joseph Nunes and Xavier Drèze ran an experiment with a car wash.\n\nCustomers got a loyalty card: buy eight washes, get one free. But not everyone got the same card."},
+    {"type": "diagram", "kicker": "Two cards. The same deal.", "script": "diagram.py", "body": "Both needed eight more washes. One of them just looked 20% done."},
+    {"type": "text", "kicker": "Nine months later, they counted.", "body": "Of the empty cards, 19% were completed.\n\nOf the cards with two free stamps, 34%. And those customers finished sooner, too."},
+    {"type": "text", "kicker": "Nobody saved a single wash.", "body": "The free stamps changed only how the task looked: not “not started”, but “already underway”.\n\nThe researchers called it the endowed progress effect."},
+    {"type": "text", "kicker": "Rats got there first.", "body": "In the 1930s, psychologist Clark Hull saw rats run faster the closer they got to food.\n\nIn 2006, a study of a café coffee card found the same: customers sped up as the free coffee got closer."},
+    {"type": "moral", "lead": "People rarely quit because the road is long.", "accent": "They quit when it feels like they haven’t started."},
+    {"type": "cta", "line": "Save this for the next thing you keep putting off."}
+  ],
+  "caption": "In 2004, a car wash handed out two loyalty cards: one with 8 empty spaces, one with 10 spaces and 2 already stamped. Both needed the same 8 washes for a free one. 34% finished the pre-stamped card, versus 19%.\n\nPsychologists call it the endowed progress effect: a goal that feels already started is easier to finish.\n\nWhat would you finish faster if it felt already started?\n\n#EndowedProgressEffect #BehavioralEconomics #ConsumerPsychology #LoyaltyPrograms #GoalGradient",
+  "sources": [
+    "https://ideas.repec.org/a/oup/jconrs/v32y2006i4p504-512.html",
+    "https://siliconcanals.com/t-car-wash-loyalty-cards-endowed-progress/",
+    "https://www.coglode.com/nuggets/endowed-progress-effect",
+    "https://www.chicagobooth.edu/review/going-goal",
+    "https://business.columbia.edu/insights/chazen-global-insights/goal-gradient-hypothesis-resurrected-purchase-acceleration"
+  ],
+  "status": "pending"
+}
