@@ -21,3 +21,4 @@
 - 2026-11-09 | science | In September 2023, the whole planet started to hum. For nine days. (Dickson Fjord megatsunami and seiche, Greenland)
 - 2026-11-10 | history | In 1526, an African king wrote to Lisbon. To stop the slave trade. (Afonso I of Kongo, letters to João III)
 - 2026-11-11 | psychology | A car wash gave away two free stamps. Nearly twice as many people finished. (Endowed progress effect, Nunes & Drèze)
+- 2026-11-12 | economics | In 1934, Swiss businesses ran out of cash. So they invented their own money. (WIR franc, Zurich 1934, Stodder)
