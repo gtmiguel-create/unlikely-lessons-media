@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-12",
+  "topic": "WIR franc, Swiss complementary currency (Zurich 1934, Stodder 2009)",
+  "slides": [
+    {"type": "cover", "title": "In 1934, Swiss businesses ran out of cash.", "accent": "So they invented their own money.", "sub": "It still works best in bad times."},
+    {"type": "text", "kicker": "Zurich, October 1934.", "body": "The Great Depression had dried up cash. Small firms still had customers, goods and skills. What they lacked was francs to pay each other.\n\nBusinessmen Werner Zimmermann and Paul Enz gathered a small group of companies with a plan."},
+    {"type": "text", "kicker": "They called it WIR.", "body": "Short for Wirtschaftsring: “economic circle”. In German, wir also means “we”.\n\nMembers could pay each other in WIR credits instead of francs. Within a few months, more than a thousand accounts were open."},
+    {"type": "diagram", "kicker": "Money that stays inside the circle.", "script": "diagram.py", "body": "A WIR franc counts as one Swiss franc. But you can only spend it with other members."},
+    {"type": "text", "kicker": "Then an economist checked the data.", "body": "Normally, people use more money when the economy grows.\n\nIn 2009, economist James Stodder showed WIR does the opposite. When the Swiss economy slows and cash gets scarce, firms use WIR more."},
+    {"type": "text", "kicker": "A spare tyre for the economy.", "body": "When banks tighten and francs run short, members can still trade with each other.\n\nIn later work, Stodder argued this steadies the Swiss economy far more than WIR’s small size would suggest."},
+    {"type": "text", "kicker": "92 years later, it’s still running.", "body": "WIR became a cooperative bank. Tens of thousands of Swiss small businesses use the WIR franc alongside the ordinary franc.\n\nIt was built for a crisis. It is still there for the next one."},
+    {"type": "moral", "lead": "A backup looks useless when times are good.", "accent": "That’s exactly when you should build one."},
+    {"type": "cta", "line": "Save this for the next time someone calls your plan B a waste."}
+  ],
+  "caption": "In 1934, during the Great Depression, a group of Swiss businesses in Zurich created their own currency: the WIR franc. It still exists, and economist James Stodder found something odd about it: firms use it more when the economy slows down.\n\nA complementary currency that works like a spare tyre for small businesses.\n\nWhat’s a backup plan of yours that only makes sense in a crisis?\n\n#WIRBank #ComplementaryCurrency #SwissHistory #MonetaryEconomics #GreatDepression",
+  "sources": [
+    "https://en.wikipedia.org/wiki/WIR_Bank",
+    "https://www.swissinfo.ch/eng/business/cash-substitute-greases-business-wheels/7613810",
+    "https://reinventingmoney.com/almstedt-60_years_wir/",
+    "https://ideas.repec.org/a/eee/jeborg/v72y2009i1p79-95.html",
+    "https://ideas.repec.org/a/pal/compes/v58y2016i4d10.1057_s41294-016-0001-5.html",
+    "https://moneyland.ch/en/wir-franc-definition"
+  ],
+  "status": "pending"
+}
