@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-13",
+  "topic": "Moonrise, Hernandez, New Mexico (Ansel Adams, 1941; dated by David Elmore and Dennis di Cicco)",
+  "slides": [
+    {"type": "cover", "title": "Ansel Adams took his most famous photo in a hurry.", "accent": "Then forgot when.", "sub": "Astronomers had to work it out."},
+    {"type": "text", "kicker": "A roadside in New Mexico, late afternoon.", "body": "Driving near the village of Hernandez, Adams saw the Moon rising over a church and its graveyard of white crosses.\n\nHe stopped on the side of the road and shouted for help with the camera. The light was about to go."},
+    {"type": "text", "kicker": "One shot. Then the light was gone.", "body": "He made one exposure. When he flipped the film holder to take a second, the sun had already left the crosses.\n\nThat single negative became Moonrise, Hernandez, New Mexico, one of the most famous photographs ever made."},
+    {"type": "text", "kicker": "But when was it taken?", "body": "Adams never dated it. Over the years he gave different years: 1940, 1941, 1942.\n\nEven his stories about the shot didn't agree. In one, he read his light meter. In another, he couldn't find it."},
+    {"type": "diagram", "kicker": "The Moon is a clock.", "script": "diagram.py", "body": "Seen from one exact spot, the Moon's height and direction match only a few moments in history."},
+    {"type": "text", "kicker": "First answer: October 31, 1941.", "body": "Photo historian Beaumont Newhall asked astronomer David Elmore to solve it.\n\nElmore estimated where Adams had stood, then checked where the Moon would have been on 36 possible autumn dates. Adams accepted the result and used it."},
+    {"type": "text", "kicker": "Then another astronomer checked.", "body": "Dennis di Cicco of Sky & Telescope couldn't make the numbers fit. After about ten years, and a visit to the site, he found Adams had stood about 20 metres further west.\n\nNew answer: November 1, 1941, 4:49 p.m. Elmore agreed."},
+    {"type": "moral", "lead": "Memory tells a good story. It rarely keeps the date.", "accent": "When it matters, check the evidence."},
+    {"type": "cta", "line": "Save this for the next time you're sure you remember."}
+  ],
+  "caption": "Ansel Adams' Moonrise, Hernandez, New Mexico is one of the most famous photographs ever made, yet Adams never knew exactly when he took it. Astronomers worked it out from the position of the Moon: November 1, 1941, at 4:49 p.m.\n\nWhat's something you were sure you remembered, until you checked?\n\n#AnselAdams #MoonriseHernandez #PhotographyHistory #ForensicAstronomy #BlackAndWhitePhotography",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moonrise,_Hernandez,_New_Mexico",
+    "https://onthisdateinphotography.com/2016/11/01/november-1/",
+    "https://en.wikipedia.org/wiki/Dennis_di_Cicco"
+  ],
+  "status": "pending"
+}
