@@ -22,3 +22,4 @@
 - 2026-11-10 | history | In 1526, an African king wrote to Lisbon. To stop the slave trade. (Afonso I of Kongo, letters to João III)
 - 2026-11-11 | psychology | A car wash gave away two free stamps. Nearly twice as many people finished. (Endowed progress effect, Nunes & Drèze)
 - 2026-11-12 | economics | In 1934, Swiss businesses ran out of cash. So they invented their own money. (WIR franc, Zurich 1934, Stodder)
+- 2026-11-13 | photography | Ansel Adams took his most famous photo in a hurry. Then forgot when. (Moonrise, Hernandez 1941; Elmore and di Cicco)
