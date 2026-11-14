@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-14",
+  "topic": "The Thing / Great Seal bug (Léon Theremin, Spaso House, 1945-1952)",
+  "slides": [
+    {"type": "cover", "title": "In 1945, Soviet schoolchildren gave the US ambassador a gift.", "accent": "It listened for seven years.", "sub": "And it had no battery."},
+    {"type": "text", "kicker": "A gesture of friendship.", "body": "In August 1945, a group of Soviet Young Pioneers presented Ambassador Averell Harriman with a hand-carved wooden copy of the Great Seal of the United States.\n\nHe hung it in his study at Spaso House, his residence in Moscow."},
+    {"type": "text", "kicker": "Hidden behind the eagle's beak.", "body": "Inside the carving sat a tiny device: a small metal cylinder, a paper-thin membrane and a short antenna.\n\nNo battery. No wires. Nothing to replace, and nothing to give it away."},
+    {"type": "diagram", "kicker": "Powered from outside the house.", "script": "diagram.py", "body": "A radio beam switched it on. Voices shook the membrane, and the bug sent the beam back, carrying the conversation with it."},
+    {"type": "text", "kicker": "Built by the man behind the theremin.", "body": "Its designer was Léon Theremin, inventor of the eerie instrument that is played without touch.\n\nAfter a decade in the US, he returned to the Soviet Union in 1938. He was imprisoned and put to work in a secret lab."},
+    {"type": "text", "kicker": "Found almost by accident.", "body": "British radio operators had heard American voices on their sets, but searches came up empty.\n\nIn September 1952, a State Department technician swept the residence while the ambassador dictated. The signal led straight to the seal."},
+    {"type": "text", "kicker": "Its idea is probably in your pocket.", "body": "Because it ran on energy from an outside signal, the bug is often called a forerunner of RFID: the battery-free tags in key fobs, shop labels and contactless cards."},
+    {"type": "moral", "lead": "We search for threats that look like threats.", "accent": "The real ones often arrive as gifts."},
+    {"type": "cta", "line": "Save this for the next gift that seems too perfect."}
+  ],
+  "caption": "In 1945, Soviet Young Pioneers gave the US ambassador in Moscow a carved wooden Great Seal. Inside was The Thing, a battery-free bug designed by Léon Theremin, which listened from his study for seven years before it was found in 1952.\n\nWhat's the most suspicious gift you've ever received?\n\n#GreatSealBug #LeonTheremin #ColdWarHistory #Espionage #RFID",
+  "sources": [
+    "https://www.cryptomuseum.com/covert/bugs/thing/",
+    "https://hackaday.com/2015/12/08/theremins-bug",
+    "https://en.wikipedia.org/wiki/The_Thing_(listening_device)"
+  ],
+  "status": "pending"
+}
