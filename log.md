@@ -24,3 +24,4 @@
 - 2026-11-12 | economics | In 1934, Swiss businesses ran out of cash. So they invented their own money. (WIR franc, Zurich 1934, Stodder)
 - 2026-11-13 | photography | Ansel Adams took his most famous photo in a hurry. Then forgot when. (Moonrise, Hernandez 1941; Elmore and di Cicco)
 - 2026-11-14 | technology | In 1945, Soviet schoolchildren gave the US ambassador a gift. It listened for seven years. (The Thing / Great Seal bug, Léon Theremin)
+- 2026-11-15 | history | In the late 1700s, German foresters built the perfect forest. Then it got sick. (Scientific forestry, James C. Scott, Seeing Like a State; Clavería surnames 1849)
