@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-15",
+  "topic": "Scientific forestry and legibility (James C. Scott, Seeing Like a State; Clavería surname catalogue, Philippines 1849)",
+  "slides": [
+    {"type": "cover", "title": "In the late 1700s, German foresters built the perfect forest.", "accent": "Then it got sick.", "sub": "Its only flaw: it was too tidy."},
+    {"type": "text", "kicker": "To a king, a forest was a number.", "body": "The rulers of Prussia and Saxony wanted to know one thing about their woods: how much timber they could sell each year.\n\nA wild forest made that very hard to count."},
+    {"type": "text", "kicker": "So they made the forest countable.", "body": "Mixed woods of oak, beech, shrubs and undergrowth were cleared. In their place: one species, usually Norway spruce, all the same age, planted in straight rows.\n\nEasy to measure. Easy to tax. Easy to harvest."},
+    {"type": "diagram", "kicker": "What grew vs. what the state could read.", "script": "diagram.py", "body": "On the right, every tree can be counted from a desk. Everything else has been removed."},
+    {"type": "text", "kicker": "The first generation was a triumph.", "body": "The trees came up fast and even, and the model spread across Europe and beyond.\n\nBut the old forest had been kept alive by things nobody counted: soil, fungi, insects, birds. Without them, the next planting grew stunted and sick."},
+    {"type": "text", "kicker": "Yields fell by 20 to 30 percent.", "body": "That's how political scientist James C. Scott tells it in his 1998 book Seeing Like a State.\n\nHe writes that the worst cases even got their own word in German: Waldsterben, \"forest death\"."},
+    {"type": "text", "kicker": "It didn't only happen to trees.", "body": "In 1849, the Spanish governor of the Philippines ordered families to take surnames from an official catalogue of about 61,000 names, to simplify census and taxes.\n\nTowns were handed pages of the list. Scott notes whole towns ended up with names starting with the same letter."},
+    {"type": "moral", "lead": "What is easy to measure is not always what keeps things alive.", "accent": "Tidy is not the same as healthy."},
+    {"type": "cta", "line": "Save this for the next plan that looks a little too neat."}
+  ],
+  "caption": "In the late 1700s, Prussia and Saxony replaced messy mixed woodland with neat rows of Norway spruce, so every tree could be counted, taxed and harvested. The first generation was a triumph; the next one grew stunted and sick. James C. Scott used this story in Seeing Like a State to show what goes wrong when we simplify the world to make it legible.\n\nWhere have you seen a tidy system make things worse?\n\n#SeeingLikeAState #JamesCScott #ScientificForestry #ForestHistory #Legibility",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seeing_Like_a_State",
+    "https://mikefisher.substack.com/p/seeing-like-a-state",
+    "https://www.slatestarcodexabridged.com/Book-Review-Seeing-Like-A-State",
+    "https://en.wikipedia.org/wiki/Cat%C3%A1logo_alfab%C3%A9tico_de_apellidos"
+  ],
+  "status": "pending"
+}
