@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-16",
+  "topic": "Glassfrogs hide their red blood cells in the liver (Taboada, Delia, Johnsen, Yao; Science 2022)",
+  "slides": [
+    {"type": "cover", "title": "A tiny frog sleeps all day on a leaf.", "accent": "To vanish, it hides its blood.", "sub": "Almost all of it."},
+    {"type": "text", "kicker": "Meet the northern glassfrog.", "body": "It is only a few centimetres long. It is active at night and spends the day asleep on the underside of a leaf.\n\nIts skin and muscles let light through. From below, it looks like a small shadow."},
+    {"type": "text", "kicker": "There was one problem: blood.", "body": "Red blood cells absorb green light and reflect red light.\n\nOn a green leaf, that makes them easy to spot. An animal trying to disappear can't have red flowing through its whole body."},
+    {"type": "diagram", "kicker": "So while it sleeps, the blood goes away.", "script": "diagram.py", "body": "Asleep, it pulls nearly 90% of its red blood cells out of circulation and packs them into its liver."},
+    {"type": "text", "kicker": "Its liver works like a mirror.", "body": "The liver has a mirror-like surface that hides the packed cells. With the red tucked away, the frog becomes two to three times more transparent.\n\nWhen it wakes up, the blood flows back out."},
+    {"type": "text", "kicker": "Scientists had to watch it sleep.", "body": "A Duke-led team, including Carlos Taboada, Jesse Delia and Sönke Johnsen, published the finding in Science in 2022.\n\nThe trick only works when the frogs are calm and asleep. Awake, stressed or anaesthetised, they turn opaque again."},
+    {"type": "text", "kicker": "The part no one can explain yet.", "body": "Packing almost all your red blood cells into one organ for hours sounds like a recipe for clots. The frogs do it every day without forming them.\n\nHow is still a mystery. Researchers hope it could one day help with blood vessel problems in humans."},
+    {"type": "moral", "lead": "Fitting in isn't about having nothing to hide.", "accent": "It's knowing what to put away, and when."},
+    {"type": "cta", "line": "Save this for a day you'd rather not be seen."}
+  ],
+  "caption": "Northern glassfrogs sleep through the day on leaves. To stay nearly invisible, they pull almost 90% of their red blood cells out of circulation and pack them into their liver. A 2022 study in Science found this makes them two to three times more transparent, without the blood clotting.\n\nWhich animal trick do you think deserves its own study?\n\n#GlassFrog #Glassfrogs #Camouflage #AnimalTransparency #Amphibians",
+  "sources": [
+    "https://pratt.duke.edu/news/glassfrogs-hide-red-blood-cells-their-liver-become-transparent/",
+    "https://www.sciencenews.org/?p=3120635",
+    "https://www.eurekalert.org/news-releases/975202"
+  ],
+  "status": "pending"
+}
