@@ -26,3 +26,4 @@
 - 2026-11-14 | technology | In 1945, Soviet schoolchildren gave the US ambassador a gift. It listened for seven years. (The Thing / Great Seal bug, Léon Theremin)
 - 2026-11-15 | history | In the late 1700s, German foresters built the perfect forest. Then it got sick. (Scientific forestry, James C. Scott, Seeing Like a State; Clavería surnames 1849)
 - 2026-11-16 | nature | A tiny frog sleeps all day on a leaf. To vanish, it hides its blood. (Glassfrogs, Taboada, Delia & Johnsen, Science 2022)
+- 2026-11-17 | history | In 1838, France went to war with Mexico. Over a pastry shop. (The Pastry War, Remontel, Santa Anna's leg)
