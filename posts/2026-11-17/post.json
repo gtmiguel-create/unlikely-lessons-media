@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "topic": "The Pastry War, France vs Mexico 1838-39 (Remontel, San Juan de Ulúa, Santa Anna's leg)",
+  "slides": [
+    {"type": "cover", "title": "In 1838, France went to war with Mexico.", "accent": "Over a pastry shop.", "sub": "Or so the story goes."},
+    {"type": "text", "kicker": "It started with a looted bakery.", "body": "In 1832, during one of Mexico's many uprisings, a French pastry cook's shop in Tacubaya, then a town outside Mexico City, was looted. He blamed army officers.\n\nThe owner, known as Monsieur Remontel, asked for 60,000 pesos. Mexico said no."},
+    {"type": "text", "kicker": "So he took his case to Paris.", "body": "His complaint joined a pile of older French grievances: unpaid claims, forced loans, trade restrictions.\n\nIn March 1838, France sent Mexico an ultimatum. It wanted 600,000 pesos in all."},
+    {"type": "diagram", "kicker": "The pastry was a tenth of the bill.", "script": "diagram.py", "body": "But it was the part people remembered. The conflict became known as the Pastry War."},
+    {"type": "text", "kicker": "Then came the warships.", "body": "In April 1838, the French navy blockaded the port of Veracruz.\n\nOn 27 November, its fleet bombarded the island fortress of San Juan de Ulúa. Mexico declared war."},
+    {"type": "text", "kicker": "One general lost a leg.", "body": "On 5 December, Antonio López de Santa Anna was hit by French cannon fire. Part of his leg was amputated.\n\nHe buried it at his estate. In 1842, back in power, he gave it a state funeral. In 1844, rioters dug it up."},
+    {"type": "text", "kicker": "Peace came in March 1839.", "body": "With a British diplomat mediating, Mexico agreed to pay the 600,000 pesos in instalments. The French fleet sailed home.\n\nHistory kept the pastry shop. The pile of grievances behind it mostly faded."},
+    {"type": "moral", "lead": "A fight is rarely about the thing it's named after.", "accent": "Look at what was piling up underneath."},
+    {"type": "cta", "line": "Save this for the next argument about the dishes."}
+  ],
+  "caption": "The Pastry War of 1838–39 began with a looted French pastry shop near Mexico City. Behind it sat a 600,000-peso bill of French claims, a naval blockade of Veracruz, and a general who lost his leg, then gave it a state funeral.\n\nWhat's the smallest thing you've seen start a much bigger fight?\n\n#PastryWar #MexicanHistory #SantaAnna #Veracruz #FrenchHistory",
+  "sources": [
+    "https://www.inehrm.gob.mx/work/models/inehrm/Resource/4875/Guerra_de_Pasteles1.pdf",
+    "https://www.britannica.com/event/Pastry-War",
+    "https://www.history.com/articles/pastry-war-france-mexico",
+    "https://www.history.com/articles/6-things-you-may-not-know-about-santa-anna",
+    "https://en.wikipedia.org/wiki/Pastry_War"
+  ],
+  "status": "pending"
+}
