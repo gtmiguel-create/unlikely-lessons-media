@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-18",
+  "topic": "Pre-crastination (Rosenbaum, Gong & Potts 2014; Fournier et al. 2019; Wasserman's pigeons)",
+  "slides": [
+    {"type": "cover", "title": "Students were told to carry a bucket the easy way.", "accent": "Almost all chose the hard way.", "sub": "On purpose."},
+    {"type": "text", "kicker": "A simple task at Penn State.", "body": "Psychologist David Rosenbaum had students walk down an alley, pick up one of two empty beach buckets, and carry it to the end.\n\nOne bucket sat close to the start, the other farther along. The only rule: take whichever seems easier."},
+    {"type": "diagram", "kicker": "The far bucket was the easy one.", "script": "diagram.py", "body": "Same bucket, same finish line. Grab the far one, and you carry it for less."},
+    {"type": "text", "kicker": "They kept grabbing the near one.", "body": "Again and again, students picked up the closer bucket, and then carried it farther.\n\nAsked why, nearly all of them said some version of the same thing: they wanted to get the task done as soon as they could."},
+    {"type": "text", "kicker": "The researchers gave it a name.", "body": "In 2014, Rosenbaum and his colleagues called it pre-crastination: rushing to start a task, even when it costs extra effort.\n\nTheir idea: a goal you hold in mind takes up working memory. Picking the bucket up early lets you stop thinking about it."},
+    {"type": "text", "kicker": "A busier mind rushes even more.", "body": "In a 2019 follow-up, some people had to memorise a list of digits while fetching buckets.\n\nWhen the far bucket was placed even farther away, the people holding those digits were more likely to grab the near one first."},
+    {"type": "text", "kicker": "Pigeons do it too.", "body": "At the University of Iowa, pigeons pecked a short sequence of targets on a screen to earn food. One middle step could be taken early or not. It made no difference to the reward.\n\nWithin a short time, the birds jumped ahead almost every time."},
+    {"type": "moral", "lead": "We often start a task just to stop carrying it in our heads.", "accent": "Before you grab the nearest bucket, look down the alley."},
+    {"type": "cta", "line": "Save this for the next email you answer too fast."}
+  ],
+  "caption": "Pre-crastination is the urge to get a task started right away, even when waiting would be easier. In 2014, psychologist David Rosenbaum found people would carry a bucket farther, just to pick it up sooner. Pigeons do it too.\n\nWhat's your nearest bucket: emails, dishes, replying to texts?\n\n#precrastination #procrastination #workingmemory #cognitivepsychology #behavioralscience",
+  "sources": [
+    "https://www.sciencedaily.com/releases/2014/05/140513142149.htm",
+    "https://www.gwern.net/doc/psychology/2014-rosenbaum.pdf",
+    "https://www.psychologicalscience.org/observer/now-is-not-the-time-for-precrastination",
+    "https://featuredcontent.psychonomic.org/to-precrastinate-or-not-to-precrastinate-when-precrastination-increases-physical-effort-but-reduces-cognitive-load/",
+    "https://featuredcontent.psychonomic.org/300-million-years-of-pre-crastination/"
+  ],
+  "status": "pending"
+}
