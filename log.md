@@ -28,3 +28,4 @@
 - 2026-11-16 | nature | A tiny frog sleeps all day on a leaf. To vanish, it hides its blood. (Glassfrogs, Taboada, Delia & Johnsen, Science 2022)
 - 2026-11-17 | history | In 1838, France went to war with Mexico. Over a pastry shop. (The Pastry War, Remontel, Santa Anna's leg)
 - 2026-11-18 | psychology | Students were told to carry a bucket the easy way. Almost all chose the hard way. (Pre-crastination, Rosenbaum, Gong & Potts 2014; Fournier 2019; Wasserman's pigeons)
+- 2026-11-19 | economics | In 2006, poor families in China got cheaper rice. So they bought less of it. (Giffen behaviour, Jensen & Miller, Hunan, AER 2008)
