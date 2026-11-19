@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "topic": "Giffen behaviour (Jensen & Miller, Hunan and Gansu, AER 2008)",
+  "slides": [
+    {"type": "cover", "title": "In 2006, poor families in China got cheaper rice.", "accent": "So they bought less of it.", "sub": "Economists had waited a century for this."},
+    {"type": "text", "kicker": "A strange idea from 1895.", "body": "Economist Alfred Marshall described an odd case he credited to a \"Mr. Giffen\": when bread got more expensive, some poor families bought more bread, not less.\n\nIt broke the most basic rule of demand."},
+    {"type": "text", "kicker": "Economics' unicorn.", "body": "Textbooks often pointed to potatoes during the Irish famine of the 1840s. Later research found little evidence for it.\n\nFor about a hundred years, the \"Giffen good\" stayed famous, debated, and almost never seen."},
+    {"type": "text", "kicker": "So two economists ran a test.", "body": "In 2006, Robert Jensen and Nolan Miller followed about 1,300 poor households in two Chinese provinces.\n\nSome got vouchers that made their staple food cheaper for five months. In Hunan province, that staple was rice."},
+    {"type": "diagram", "kicker": "Rice was the cheapest way to stay full.", "script": "diagram.py", "body": "Once rice cost less, money was left over. Many families swapped some rice for tastier food."},
+    {"type": "text", "kicker": "It works the other way too.", "body": "That's the Giffen effect: when rice gets pricier, these families feel poorer, give up meat, and buy more rice to stay full.\n\nIn Hunan, it showed up in families who were poor, but not the very poorest."},
+    {"type": "text", "kicker": "The help didn't help much.", "body": "The researchers found no sign that cheaper rice improved nutrition.\n\nIn Hunan, it may even have lowered calories and some vitamins. The families weren't wrong. They just wanted something besides rice."},
+    {"type": "moral", "lead": "Cheaper doesn't always mean more.", "accent": "Sometimes it means people can finally choose something else."},
+    {"type": "cta", "line": "Save this for the next time a simple fix backfires."}
+  ],
+  "caption": "Giffen goods are one of economics' strangest ideas: things people buy more of when the price goes up. In 2006, economists Robert Jensen and Nolan Miller made rice cheaper for poor families in Hunan, China. Many bought less rice, and spent the difference on tastier food.\n\nWhat's something you'd buy less of if it got cheaper?\n\n#giffengood #economics #behavioraleconomics #developmenteconomics #lawofdemand",
+  "sources": [
+    "https://sites.oxy.edu/whitney/xaccess/ec250/giffen_aer_2008_09.pdf",
+    "https://econpapers.repec.org/RePEc:aea:aecrev:v:98:y:2008:i:4:p:1553-77",
+    "https://www.povertyactionlab.org/evaluation/consumer-price-subsidies-and-nutrition-china"
+  ],
+  "status": "pending"
+}
