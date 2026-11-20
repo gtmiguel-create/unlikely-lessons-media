@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-20",
+  "topic": "Olympic art competitions 1912-1948 (Coubertin, Winans, Hajós, Copley)",
+  "slides": [
+    {"type": "cover", "title": "For 36 years, the Olympics gave medals for art.", "accent": "Then the artists were too good.", "sub": "Painting, poetry, music. Even architecture."},
+    {"type": "text", "kicker": "The founder had a bigger dream.", "body": "Pierre de Coubertin, who revived the modern Olympics, believed sport and art belonged together.\n\nFrom 1912 to 1948, the Games held contests in five arts: architecture, literature, music, painting and sculpture."},
+    {"type": "text", "kicker": "One rule: it had to be about sport.", "body": "Every entry had to be inspired by sport. Most had to be new, never published before.\n\nJuries handed out gold, silver and bronze. When the work disappointed them, they could give no gold at all."},
+    {"type": "text", "kicker": "The first gold went to two strangers.", "body": "In 1912, the literature gold went to \"Ode to Sport\", by Georges Hohrod and Martin Eschbach.\n\nNeither man existed. The poem was written by Coubertin himself, under two fake names."},
+    {"type": "diagram", "kicker": "Two men won in both.", "script": "diagram.py", "body": "A shooter who sculpted, and a swimmer who designed a stadium."},
+    {"type": "text", "kicker": "A silver medal at 73.", "body": "In 1948, British artist John Copley won silver for an engraving of polo players.\n\nHe was 73. Some record books still call him the oldest Olympic medallist ever."},
+    {"type": "text", "kicker": "Then came the problem.", "body": "The Olympics were meant for amateurs. After 1948, the IOC concluded that almost all the artists were professionals, who lived from selling their work.\n\nThe contests were replaced by exhibitions. No medals, no podium."},
+    {"type": "moral", "lead": "Sometimes the rules meant to keep something pure", "accent": "end up keeping out the best of it."},
+    {"type": "cta", "line": "Save this for the next time a rule forgets its purpose."}
+  ],
+  "caption": "From 1912 to 1948, the Olympic Games awarded medals for painting, sculpture, music, literature and architecture. Founder Pierre de Coubertin even won gold for a poem, entered under two fake names. After 1948 the Olympic art competitions were dropped, because the artists were professionals.\n\nWhich art form would you bring back to the Olympics?\n\n#olympichistory #olympicartcompetitions #pierredecoubertin #arthistory #olympics",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Art_competitions_at_the_Summer_Olympics",
+    "https://www.smithsonianmag.com/arts-culture/when-the-olympics-gave-out-medals-for-art-6878965/",
+    "https://www.olympedia.org/sports/ART",
+    "https://mentalfloss.com/article/31319/olympic-art-competitions-end"
+  ],
+  "status": "pending"
+}
