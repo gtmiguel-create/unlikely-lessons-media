@@ -29,3 +29,5 @@
 - 2026-11-17 | history | In 1838, France went to war with Mexico. Over a pastry shop. (The Pastry War, Remontel, Santa Anna's leg)
 - 2026-11-18 | psychology | Students were told to carry a bucket the easy way. Almost all chose the hard way. (Pre-crastination, Rosenbaum, Gong & Potts 2014; Fournier 2019; Wasserman's pigeons)
 - 2026-11-19 | economics | In 2006, poor families in China got cheaper rice. So they bought less of it. (Giffen behaviour, Jensen & Miller, Hunan, AER 2008)
+- 2026-11-20 | art | For 36 years, the Olympics gave medals for art. Then the artists were too good. (Olympic art competitions 1912-1948, Coubertin)
+- 2026-11-21 | technology | In 1944, the Allies needed to know the sea's future. So they asked a brass machine. (Tide-predicting machines, Kelvin 1872, Doodson, Position Z, D-Day)
