@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-21",
+  "topic": "Tide-predicting machines (Kelvin 1872, Doodson, Farquharson, Position Z, D-Day)",
+  "slides": [
+    {"type": "cover", "title": "In 1944, the Allies needed to know the sea's future.", "accent": "So they asked a brass machine.", "sub": "It helped choose the day of D-Day."},
+    {"type": "text", "kicker": "A tide is a sum of rhythms.", "body": "The Moon and the Sun pull on the oceans in many overlapping cycles. Add the right ones together, and you can predict the tide years ahead.\n\nIn 1872, William Thomson, later Lord Kelvin, built a machine to do the adding."},
+    {"type": "diagram", "kicker": "Each wheel was one rhythm.", "script": "diagram.py", "body": "A wire ran over the pulleys and summed their motion. A pen drew the tide. One harbour, one full year: about four hours."},
+    {"type": "text", "kicker": "October 1943. A \"most urgent\" letter.", "body": "Commander William Farquharson of the Admiralty wrote to Arthur Doodson, at the Liverpool Tidal Institute.\n\nHe sent tidal data for a place called only \"Position Z\", and asked for hourly predictions from April 1944."},
+    {"type": "text", "kicker": "Nobody told Doodson where it was.", "body": "\"The place is nameless,\" the letter said. Doodson ran the numbers on two machines, kept in separate rooms in case a bomb hit one.\n\nYears later, he admitted he had guessed: Normandy."},
+    {"type": "text", "kicker": "The tide had to be just right.", "body": "Rommel had hidden obstacles on the beaches, covered at high water. The Allies needed to land just after low tide, at first light, with the sea rising.\n\nAdd the Moon for paratroopers, and only three June days worked."},
+    {"type": "text", "kicker": "Storms ruled out the 5th. They went on the 6th.", "body": "Once the landings began, the tide predictions proved accurate.\n\nMachines like Kelvin's kept predicting the world's tides until the 1960s, when digital computers finally took over."},
+    {"type": "moral", "lead": "You rarely get to see where your careful work ends up.", "accent": "Do it well anyway. It might decide everything."},
+    {"type": "cta", "line": "Save this for the next time your work feels invisible."}
+  ],
+  "caption": "In 1943, the Admiralty asked tide expert Arthur Doodson for predictions at a secret spot called \"Position Z\". He worked them out on Lord Kelvin's tide-predicting machine, a brass calculator of gears and pulleys, and only later guessed it was Normandy. Those tides helped set the date of D-Day.\n\nHave you ever done a job without knowing what it was really for?\n\n#tidepredictingmachine #dday #lordkelvin #historyofscience #oceanography",
+  "sources": [
+    "https://physicstoday.aip.org/features/the-tide-predictions-for-d-day",
+    "https://en.wikipedia.org/wiki/Tide-predicting_machine",
+    "https://en.wikipedia.org/wiki/Arthur_Thomas_Doodson",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co53901/william-thomsons-tide-predicting-machine-1872",
+    "https://www.noc.ac.uk/who-we-are/our-history/tide-predicting-machines"
+  ],
+  "status": "pending"
+}
