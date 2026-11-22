@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-22",
+  "topic": "Wittgenstein's newspaper (Philosophical Investigations §265) and Taleb's Wittgenstein's ruler",
+  "slides": [
+    {"type": "cover", "title": "How do you check that a newspaper is right?", "accent": "Buy another copy.", "sub": "A philosopher's joke we still fall for."},
+    {"type": "text", "kicker": "A book its author never saw printed.", "body": "Ludwig Wittgenstein died in 1951 with his second great book unfinished. It came out two years later as Philosophical Investigations.\n\nIn it, he pictures someone buying several copies of the morning paper, to make sure what it says is true."},
+    {"type": "diagram", "kicker": "It sounds absurd. That's the point.", "script": "diagram.py", "body": "Every copy comes off the same press. If the story is wrong, it's wrong in all of them. Ten copies feel like ten checks. They are one source."},
+    {"type": "text", "kicker": "He was really talking about memory.", "body": "Wittgenstein used the image for checking a memory against the very same memory.\n\nIt feels like confirmation. But a real check, he argued, has to appeal to something independent."},
+    {"type": "text", "kicker": "Decades later, a trader added a twist.", "body": "In Fooled by Randomness, Nassim Taleb described \"Wittgenstein's ruler\": unless you trust your ruler, measuring a table also measures the ruler.\n\nThe less you trust it, the more you learn about the ruler, and the less about the table."},
+    {"type": "text", "kicker": "The newspaper trick is everywhere.", "body": "Five websites rewriting one press release. A rumour three friends all heard from the same person. Rereading your own notes to check your notes.\n\nMore copies. Not more evidence."},
+    {"type": "moral", "lead": "Hearing something many times is not the same as checking it.", "accent": "Count the sources, not the copies."},
+    {"type": "cta", "line": "Save this for the next time a story is everywhere."}
+  ],
+  "caption": "In Philosophical Investigations, Ludwig Wittgenstein imagined someone buying several copies of the morning paper to make sure the news was true. Decades later, Nassim Taleb turned the idea into \"Wittgenstein's ruler\": if you don't trust the ruler, you're also measuring the ruler. Repetition can feel like proof, even when it all comes from one source.\n\nWhere have you seen one story copied until it looked like many?\n\n#wittgenstein #philosophy #criticalthinking #nassimtaleb #epistemology",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philosophical_Investigations",
+    "https://faculty.fiu.edu/~hauptli/Wittgenstein--PhilosophicalInvestigationsI243-end.htm",
+    "https://www.goodreads.com/quotes/10825176-wittgenstein-s-ruler-unless-you-have-confidence-in-the-ruler-s-reliability",
+    "https://en.wikipedia.org/wiki/Fooled_by_Randomness"
+  ],
+  "status": "pending"
+}
