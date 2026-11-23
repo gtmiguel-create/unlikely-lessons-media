@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-23",
+  "topic": "The wood-wide web: Simard et al. 1997 and the 2023 review by Karst, Jones & Hoeksema (positive citation bias)",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "You've heard that trees share food through fungi.",
+      "accent": "Scientists checked.",
+      "sub": "The story was bigger than the evidence."
+    },
+    {
+      "type": "text",
+      "kicker": "1997: a striking result.",
+      "body": "Ecologist Suzanne Simard and her colleagues tagged carbon in paper birch and Douglas fir growing in the field.\n\nSome of it moved between the trees, apparently through fungal threads joining their roots. Shaded firs seemed to gain the most."
+    },
+    {
+      "type": "text",
+      "kicker": "The idea got a nickname: the wood-wide web.",
+      "body": "Forests as networks. Old \"mother trees\" feeding their young. Trees warning each other about insects.\n\nIt was beautiful. And it travelled fast."
+    },
+    {
+      "type": "text",
+      "kicker": "Then it left the journals.",
+      "body": "Books, podcasts and documentaries picked it up. Simard inspired a main character in Richard Powers' 2018 novel The Overstory.\n\nIn 2021, her own book, Finding the Mother Tree, became a bestseller."
+    },
+    {
+      "type": "diagram",
+      "kicker": "In 2023, someone checked.",
+      "script": "diagram.py",
+      "body": "Justine Karst, Melanie Jones and Jason Hoeksema tested three popular claims against forest field studies."
+    },
+    {
+      "type": "text",
+      "kicker": "The story grew. The evidence didn't.",
+      "body": "They also read how more than 1,600 papers described 18 key field studies.\n\nUnsupported claims had almost doubled in 25 years. Some came from their own earlier papers. Each retelling sounded a little more certain."
+    },
+    {
+      "type": "text",
+      "kicker": "The fungi are still real. And vital.",
+      "body": "Mycorrhizal fungi are essential for trees to grow and survive. Nobody doubts that.\n\nWhat's unproven is the friendly, talking network on top. As Karst put it, many popular ideas are \"ahead of the science\"."
+    },
+    {
+      "type": "moral",
+      "lead": "The more beautiful a story is, the less we tend to check it.",
+      "accent": "Check the beautiful ones twice."
+    },
+    {
+      "type": "cta",
+      "line": "Save this for the next fact that feels too good to question."
+    }
+  ],
+  "caption": "Do trees really talk through underground fungi? The \"wood-wide web\" and the \"mother tree\" idea grew out of Suzanne Simard's 1997 study of birch and Douglas fir. In 2023, Justine Karst and colleagues reviewed the field evidence and found it much thinner than the story, with unsupported citations piling up over 25 years. The fungi still matter enormously; the talking network is what's unproven.\n\nWhich \"fact\" did you love before you ever checked it?\n\n#woodwideweb #mycorrhizalfungi #forestecology #suzannesimard #citationbias",
+  "sources": [
+    "https://www.nature.com/articles/41557",
+    "https://www.ualberta.ca/en/folio/2023/02/do-trees-really-talk-to-each-other-through-underground-fungal-networks.html",
+    "https://pubmed.ncbi.nlm.nih.gov/36782032/",
+    "https://en.wikipedia.org/wiki/Suzanne_Simard"
+  ],
+  "status": "pending"
+}
