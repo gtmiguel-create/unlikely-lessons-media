@@ -32,3 +32,4 @@
 - 2026-11-20 | art | For 36 years, the Olympics gave medals for art. Then the artists were too good. (Olympic art competitions 1912-1948, Coubertin)
 - 2026-11-21 | technology | In 1944, the Allies needed to know the sea's future. So they asked a brass machine. (Tide-predicting machines, Kelvin 1872, Doodson, Position Z, D-Day)
 - 2026-11-22 | philosophy | How do you check that a newspaper is right? Buy another copy. (Wittgenstein, Philosophical Investigations §265; Taleb's Wittgenstein's ruler)
+- 2026-11-23 | science | You've heard that trees share food through fungi. Scientists checked. (Wood-wide web, Simard 1997; Karst, Jones & Hoeksema 2023, citation bias)
