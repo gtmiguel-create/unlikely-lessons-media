@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-24",
+  "topic": "Santa Valley khipus matched to a 1670 Spanish census (Medrano & Urton, Ethnohistory 2018)",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "For centuries, no one could read these knotted strings.",
+      "accent": "Then a student found the answer key.",
+      "sub": "Six khipus. One census from 1670."
+    },
+    {
+      "type": "text",
+      "kicker": "The Inca didn't write. They tied.",
+      "body": "A khipu is a main cord with many dyed cords hanging from it.\n\nKnots stored numbers. Colours, and the way each cord was attached, probably meant something too. Nobody knew what."
+    },
+    {
+      "type": "diagram",
+      "kicker": "The numbers part was solved.",
+      "script": "diagram.py",
+      "body": "Knots sit in a decimal system: hundreds high, tens lower, ones at the bottom. No knot means zero."
+    },
+    {
+      "type": "text",
+      "kicker": "The Spanish burned many. And trusted others.",
+      "body": "In 1583, church officials in Lima ordered khipus used for the old gods to be burned.\n\nYet colonial courts kept accepting khipus as records of tribute well into the 1600s. Today more than a thousand survive. Most remain unread."
+    },
+    {
+      "type": "text",
+      "kicker": "Six khipus, found in one tomb.",
+      "body": "They came from Peru's Santa Valley and are kept in a museum in Lima.\n\nHarvard khipu expert Gary Urton suspected they matched a Spanish census of the same region, written in 1670. Same people, two ways of counting."
+    },
+    {
+      "type": "text",
+      "kicker": "A student spent spring break on it.",
+      "body": "Manny Medrano, a Harvard undergraduate, put the census and the khipu data side by side in spreadsheets.\n\nThe census listed 132 named tribute payers in six clans. The khipus held 133 colour-banded groups of cords."
+    },
+    {
+      "type": "text",
+      "kicker": "The strings started to make sense.",
+      "body": "Many numbers on the khipus matched the census exactly. Cord colours seemed to follow people's first names. How a cord was tied on seemed to show which half of the village someone belonged to.\n\nThey published it in 2018."
+    },
+    {
+      "type": "moral",
+      "lead": "Some puzzles can't be solved from the inside, however long you stare.",
+      "accent": "Put them next to something you can already read."
+    },
+    {
+      "type": "cta",
+      "line": "Save this for the next code you can't crack."
+    }
+  ],
+  "caption": "How did the Inca record information without writing? With khipus: knotted cords that stored numbers in a decimal system. In a 2018 paper, Harvard student Manny Medrano and anthropologist Gary Urton matched six khipus from Peru's Santa Valley to a Spanish census from 1670, and found hints that cord colours tracked names and that the way cords were tied showed social groups.\n\nWhat would you want to read in an Inca khipu?\n\n#khipu #quipu #incaempire #andeanhistory #decipherment",
+  "sources": [
+    "https://news.harvard.edu/gazette/story/2017/08/a-students-mines-voices-from-the-incan-past",
+    "https://www.atlasobscura.com/articles/khipus-inca-empire-harvard-university-colonialism",
+    "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.4466385/harvard-undergrad-cracks-code-of-knotted-inca-rope-used-as-an-ancient-excel-spreadsheet-1.4466388",
+    "https://en.wikipedia.org/wiki/Santa_Valley_Quipus",
+    "https://en.wikipedia.org/wiki/Quipu",
+    "https://www.doaks.org/resources/online-exhibits/written-in-knots-undeciphered-accounts-of-andean-life/post-inka"
+  ],
+  "status": "pending"
+}
