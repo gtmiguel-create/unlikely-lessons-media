@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "topic": "Kitty Genovese and the myth of the 38 witnesses (Manning, Levine & Collins 2007; Philpot et al. CCTV study 2019)",
+  "slides": [
+    {"type": "cover", "title": "For decades, students learned about 38 witnesses who did nothing.", "accent": "The number was wrong.", "sub": "And so was the lesson."},
+    {"type": "text", "kicker": "Queens, New York. March 1964.", "body": "Kitty Genovese, 28, was attacked outside her apartment building in Kew Gardens, a little after 3 a.m. She died of her injuries.\n\nTwo weeks later, The New York Times reported that 38 respectable neighbours had watched, and done nothing."},
+    {"type": "text", "kicker": "The story shocked the world.", "body": "In its wake, psychologists John Darley and Bibb Latané began testing the \"bystander effect\".\n\nIn one experiment, someone seemed to have a seizure over a headset. Alone, 85% of listeners helped. With four others listening, only 31% did."},
+    {"type": "diagram", "kicker": "But who were the 38?", "script": "diagram.py", "body": "Later accounts found only about six saw part of the attack. Most heard noises in the night and thought it was a quarrel."},
+    {"type": "text", "kicker": "And some people did act.", "body": "Two people called the police. Her friend Sophia Farrar went to her and held her until help arrived.\n\nIn 2016, the Times itself wrote that the article had grossly exaggerated the number of witnesses, and what they saw."},
+    {"type": "text", "kicker": "In 2007, three psychologists called it a parable.", "body": "Manning, Levine and Collins argued that the 38 witnesses had become a modern myth.\n\nOne that pushed research towards why groups fail to help, and away from how groups can help."},
+    {"type": "text", "kicker": "Then someone checked the cameras.", "body": "A 2019 study looked at 219 real fights caught on CCTV in Amsterdam, Cape Town and Lancaster.\n\nIn 91% of them, at least one bystander stepped in. And the more people were around, the more likely the victim got help."},
+    {"type": "moral", "lead": "A story told often enough starts to feel like evidence.", "accent": "Before you build on it, check the numbers."},
+    {"type": "cta", "line": "Save this for the next statistic that sounds too neat."}
+  ],
+  "caption": "Kitty Genovese's murder in Queens in 1964 became psychology's most famous example of the bystander effect: 38 witnesses who did nothing. Later research found only a handful saw anything, and two people called the police. A 2019 CCTV study of 219 real public conflicts found that bystanders stepped in 91% of the time.\n\nWhen did you last see a stranger step in to help?\n\n#bystandereffect #kittygenovese #socialpsychology #psychologyfacts",
+  "sources": [
+    "https://www.americanheritage.com/myths-surrounding-kitty-genoveses-murder",
+    "https://www.mcgill.ca/oss/article/critical-thinking-history/bystander-effect-started-lie",
+    "https://www.poynter.org/reporting-editing/2016/misremembering-kitty-genovese/",
+    "https://www.bps.org.uk/research-digest/truth-behind-story-kitty-genovese-and-bystander-effect",
+    "https://www.lancaster.ac.uk/news/bystanders-will-intervene-to-help-victims-of-aggressive-public-disputes",
+    "https://www.psypost.org/cross-national-cctv-footage-reveals-that-bystanders-intervene-in-9-out-of-10-public-conflicts/"
+  ],
+  "status": "pending"
+}
