@@ -34,3 +34,4 @@
 - 2026-11-22 | philosophy | How do you check that a newspaper is right? Buy another copy. (Wittgenstein, Philosophical Investigations §265; Taleb's Wittgenstein's ruler)
 - 2026-11-23 | science | You've heard that trees share food through fungi. Scientists checked. (Wood-wide web, Simard 1997; Karst, Jones & Hoeksema 2023, citation bias)
 - 2026-11-24 | history | For centuries, no one could read these knotted strings. Then a student found the answer key. (Santa Valley khipus, 1670 census, Medrano & Urton, Ethnohistory 2018)
+- 2026-11-25 | psychology | For decades, students learned about 38 witnesses who did nothing. The number was wrong. (Kitty Genovese, Manning, Levine & Collins 2007; Philpot et al. CCTV 2019)
