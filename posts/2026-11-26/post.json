@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-26",
+  "topic": "The cigarette economy of a POW camp (R. A. Radford, Economica 1945; the Bully Mark)",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "In 1944, prisoners of war launched their own currency.",
+      "accent": "It was repaid in prunes.",
+      "sub": "And an economist took notes."
+    },
+    {
+      "type": "text",
+      "kicker": "A prison camp in Bavaria.",
+      "body": "Richard Radford was studying economics at Cambridge when the war began. He joined the British Army, was captured in North Africa, and spent the rest of the war as a prisoner.\n\nSo he did what economists do. He watched the market."
+    },
+    {
+      "type": "text",
+      "kicker": "Everyone got the same Red Cross parcel.",
+      "body": "Tinned milk, jam, butter, biscuits, corned beef, chocolate, sugar. And cigarettes.\n\nBut people wanted different things. A non-smoker swapped his cigarettes for a friend's chocolate. Gifts turned into trades."
+    },
+    {
+      "type": "diagram",
+      "kicker": "Then cigarettes became money.",
+      "script": "diagram.py",
+      "body": "Even non-smokers took them, to spend later. Prices in the camp were quoted in cigarettes."
+    },
+    {
+      "type": "text",
+      "kicker": "And they behaved like real money.",
+      "body": "When a big shipment arrived, prices soared. When supplies stopped, prices fell and trade slowed.\n\nPrisoners paid with thin hand-rolled cigarettes and kept the good brands to smoke. Bad money drove out good."
+    },
+    {
+      "type": "text",
+      "kicker": "So, around D-Day, the camp printed paper money.",
+      "body": "The camp shop issued the Bully Mark, backed 100% by food.\n\nBut it couldn't be swapped for cigarettes. In August 1944, parcels were halved and the camp was bombed. People fled the Bully Mark."
+    },
+    {
+      "type": "text",
+      "kicker": "The currency never went bust.",
+      "body": "In the end, every holder was paid in full. In cups of coffee, or in prunes.\n\nIn April 1945, American troops arrived. That November, Radford published his notes in Economica. Economics students still read them."
+    },
+    {
+      "type": "moral",
+      "lead": "Being sound on paper doesn't make something trusted.",
+      "accent": "Value is whatever people will accept in return."
+    },
+    {
+      "type": "cta",
+      "line": "Save this for the next time someone asks what money really is."
+    }
+  ],
+  "caption": "In 1945, economist R. A. Radford published \"The Economic Organisation of a P.O.W. Camp\", describing what he saw as a prisoner of war in Germany. Red Cross parcels became a market, cigarettes became the currency, and a food-backed paper money called the Bully Mark ended up repaid in coffee and prunes.\n\nIf you had to invent money from scratch, what would you use?\n\n#cigarettecurrency #powcamp #economichistory #monetaryeconomics #worldwar2history",
+  "sources": [
+    "https://gwern.net/doc/economics/1945-radford.pdf",
+    "https://gist.github.com/vwkd/feab35e71288746faad401eb13911c8b",
+    "https://en.wikipedia.org/wiki/Richard_A._Radford"
+  ],
+  "status": "pending"
+}
