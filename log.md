@@ -35,3 +35,4 @@
 - 2026-11-23 | science | You've heard that trees share food through fungi. Scientists checked. (Wood-wide web, Simard 1997; Karst, Jones & Hoeksema 2023, citation bias)
 - 2026-11-24 | history | For centuries, no one could read these knotted strings. Then a student found the answer key. (Santa Valley khipus, 1670 census, Medrano & Urton, Ethnohistory 2018)
 - 2026-11-25 | psychology | For decades, students learned about 38 witnesses who did nothing. The number was wrong. (Kitty Genovese, Manning, Levine & Collins 2007; Philpot et al. CCTV 2019)
+- 2026-11-26 | economics | In 1944, prisoners of war launched their own currency. It was repaid in prunes. (POW cigarette economy, R. A. Radford, Economica 1945; the Bully Mark)
