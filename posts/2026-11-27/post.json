@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-27",
+  "topic": "Kodak Shirley cards (Shirley Page, chocolate and furniture, Lorna Roth 2009)",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "For decades, one woman decided how skin should look in a photo.",
+      "accent": "Her name was Shirley.",
+      "sub": "Almost nobody knew her."
+    },
+    {
+      "type": "text",
+      "kicker": "A card most people never saw.",
+      "body": "In the mid-1950s, Kodak began sending photo labs a reference card with a photo of a woman on it.\n\nThe first model was Shirley Page, a Kodak employee. The cards became known as \"Shirley cards\"."
+    },
+    {
+      "type": "text",
+      "kicker": "If Shirley looked right, the print was right.",
+      "body": "Labs used the card to calibrate their printers. They adjusted the colours until their print of Shirley matched Kodak's.\n\nThe cards were used all over the world. For decades, her skin was the standard for \"normal\"."
+    },
+    {
+      "type": "text",
+      "kicker": "But Shirley was white.",
+      "body": "The film and the prints were balanced for light skin. Darker skin often came out muddy, with faces lost in shadow.\n\nParents noticed it in school photos, where Black children's faces were hard to make out."
+    },
+    {
+      "type": "text",
+      "kicker": "The complaint that worked came from elsewhere.",
+      "body": "Chocolate makers and furniture companies were unhappy too. In their photos, milk and dark chocolate looked the same. So did light and dark wood.\n\nKodak was at risk of losing big clients."
+    },
+    {
+      "type": "text",
+      "kicker": "So Kodak improved the film.",
+      "body": "By the 1980s, Kodak had changed its film. Later it sold a film it said could photograph a dark horse in low light.\n\nResearcher Lorna Roth saw that as a careful way of not saying \"dark skin\"."
+    },
+    {
+      "type": "text",
+      "kicker": "Even insiders admitted it later.",
+      "body": "Earl Kage, a former head of Kodak's research studios, said dark skin was never treated as a serious problem, as far as he knew at the time.\n\nKodak did later add Black, Asian and Latina models to its cards."
+    },
+    {
+      "type": "moral",
+      "lead": "A standard is not neutral just because everyone uses it.",
+      "accent": "Always ask who it was tested on."
+    },
+    {
+      "type": "cta",
+      "line": "Save this for the next time someone calls a default \"normal\"."
+    }
+  ],
+  "caption": "Kodak's Shirley cards were reference photos that labs used to calibrate colour prints from the 1950s on. The first model, Shirley Page, was white, and film was balanced for her skin. What finally pushed Kodak to improve its film? Complaints from chocolate and furniture makers, as researcher Lorna Roth found.\n\nWhat \"default\" have you noticed wasn't made with you in mind?\n\n#shirleycard #kodak #photographyhistory #colorfilm #racialbias",
+  "sources": [
+    "https://www.npr.org/transcripts/363517842",
+    "https://99percentinvisible.org/episode/shirley-cards/transcript/",
+    "https://www.openculture.com/2018/07/color-film-was-designed-to-take-pictures-of-white-people-not-people-of-color.html"
+  ],
+  "status": "pending"
+}
