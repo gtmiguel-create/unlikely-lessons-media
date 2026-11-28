@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-28",
+  "topic": "Photophone (Bell and Tainter, Washington 1880)",
+  "slides": [
+    {"type": "cover", "title": "In 1880, Alexander Graham Bell made a wireless phone call.", "accent": "It ran on sunlight.", "sub": "He said it beat the telephone."},
+    {"type": "text", "kicker": "A voice, with no wire at all.", "body": "In 1880, Bell and his assistant Charles Sumner Tainter were working in a lab on L Street, in Washington, D.C.\n\nThey wanted to send speech without a wire. Just on a beam of light."},
+    {"type": "diagram", "kicker": "Your voice shook a mirror.", "script": "diagram.py", "body": "The mirror made the sunlight flicker. Selenium turned that flicker back into electric current, and then into sound."},
+    {"type": "text", "kicker": "June 3, 1880. About 213 metres away.", "body": "Tainter stood on the roof of a nearby school and spoke into the light. In the lab, Bell heard:\n\n\"Mr. Bell, if you understand what I say, come to the window and wave your hat.\"\n\nBell waved his hat."},
+    {"type": "text", "kicker": "He loved it more than the telephone.", "body": "Bell called the photophone \"the greatest invention I have ever made; greater than the telephone.\"\n\nHe even wanted to name his second daughter Photophone. His wife Mabel talked him out of it. They chose Marian."},
+    {"type": "text", "kicker": "But one cloud could end the call.", "body": "The photophone needed sunshine and a clear, straight line of sight. Clouds, fog, rain and night all stopped it.\n\nRadio came along instead, and the photophone was mostly forgotten."},
+    {"type": "text", "kicker": "A century later, light came back.", "body": "Lasers and ultra-clear glass fibres solved the problems Bell couldn't.\n\nToday, fibre-optic cables carry calls and internet data as pulses of light. The photophone is often called their ancestor."},
+    {"type": "moral", "lead": "Being early can look exactly like being wrong.", "accent": "Sometimes a good idea is just waiting for its missing piece."},
+    {"type": "cta", "line": "Save this for the next time a good idea gets dismissed."}
+  ],
+  "caption": "In 1880, Alexander Graham Bell and Charles Sumner Tainter sent a voice across Washington, D.C. on a beam of sunlight. They called it the photophone, and Bell said it was greater than the telephone. Clouds and darkness stopped it, but the same idea now runs through fibre-optic cables.\n\nWhat's an idea you've seen that was right, just too early?\n\n#photophone #alexandergrahambell #fiberoptics #inventionhistory #wirelesscommunication",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Photophone",
+    "https://boundarystones.weta.org/2022/07/14/can-you-hear-me-now-birth-wireless-communication-l-street",
+    "https://www.todayifoundout.com/index.php/2024/02/alexander-graham-bells-forgotten-greatest-invention/",
+    "https://www.hmdb.org/m.asp?m=17569"
+  ],
+  "status": "pending"
+}
