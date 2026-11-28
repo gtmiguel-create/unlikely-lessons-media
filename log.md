@@ -37,3 +37,4 @@
 - 2026-11-25 | psychology | For decades, students learned about 38 witnesses who did nothing. The number was wrong. (Kitty Genovese, Manning, Levine & Collins 2007; Philpot et al. CCTV 2019)
 - 2026-11-26 | economics | In 1944, prisoners of war launched their own currency. It was repaid in prunes. (POW cigarette economy, R. A. Radford, Economica 1945; the Bully Mark)
 - 2026-11-27 | photography | For decades, one woman decided how skin should look in a photo. Her name was Shirley. (Kodak Shirley cards, Shirley Page, Lorna Roth 2009)
+- 2026-11-28 | technology | In 1880, Alexander Graham Bell made a wireless phone call. It ran on sunlight. (Photophone, Bell and Tainter, Washington 1880)
